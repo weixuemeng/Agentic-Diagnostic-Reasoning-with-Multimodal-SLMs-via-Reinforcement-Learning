@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ INDICATION:  Fever, evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph on ___.
+ 
+ FINDINGS:  PA and lateral views of the chest.  There are low lung volumes. 
+ There is streaky bibasilar atelectasis.  The right central venous line has
+ been removed.  There is no pleural effusion or pneumothorax.  The
+ cardiomediastinal and hilar contours are stable.
+ 
+ IMPRESSION:  Bibasilar atelectasis in the setting of low lung volumes.  No
+ consolidation concerning for pneumonia.

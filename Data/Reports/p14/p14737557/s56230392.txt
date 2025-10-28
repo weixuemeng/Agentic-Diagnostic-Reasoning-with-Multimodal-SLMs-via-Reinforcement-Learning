@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___.
+ 
+ COMPARISON:  None.
+ 
+ CLINICAL HISTORY:  ___-year-old female with cough, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  Lungs are clear. 
+ No pleural effusion or pneumothorax.  Cardiomediastinal silhouette is normal. 
+ Bony structures are intact.
+ 
+ IMPRESSION:  No signs of pneumonia.

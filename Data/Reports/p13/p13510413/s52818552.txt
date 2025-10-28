@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ INDICATION:  ___-year-old male with dyspnea, AFib, rule out pneumonia.
+ 
+ COMPARISONS:  Multiple prior radiographs, most recently from ___.
+ 
+ FINDINGS:  Lung volumes are low, similar to the prior exam.  There is no focal
+ consolidation, pleural effusion, or pneumothorax.  Linear opacity at the bases
+ is likely atelectasis.  Cardiomediastinal silhouette is difficult to evaluate
+ in the setting of low lung volumes.  Osseous structures are intact.
+ 
+ IMPRESSION:  Low lung volumes and linear opacity at the bases, likely
+ atelectasis.  No focal consolidation or change from prior exam.

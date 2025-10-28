@@ -1,0 +1,20 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient with new NG tube placement, location of the tube.
+ 
+ COMPARISON:  Multiple chest x-rays from ___ and abdominal CT of ___.
+ 
+ FINDINGS:
+ 
+ Right-sided PICC line ends in mid SVC.  Small bilateral pleural effusion with
+ atelectasis is more important on the left side has worsened since ___. 
+ Dobbhoff tube is not fully included in this study, but it is probably curved
+ in the stomach.
+ 
+ CONCLUSION:
+ 
+ 1.  Dobbhoff tube is not fully included in this study; it is probably curved
+ in the stomach.
+ 2.  Small bilateral pleural effusion with atelectasis more prominent on the
+ left side has worsened since ___.

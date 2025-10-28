@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION:  Query infection.  History of melanoma.
+ 
+ COMPARISON-Multiple prior images.Most recent ___ CXR
+ 
+ REPORT:
+ 
+ There are widespread cannonball metastasis, but discrete and confluent
+ throughout both lung parenchyma consistent with widespread disease.  Allowing
+ for acceptable differences, no definitive evidence of superinfection, although
+ this would be difficult to exclude. the findings are suggestive of minimally
+ progressive disease, with enlargement suggested for instance in the left
+ perihilar area, although any difference does appear relatively minimal.
+ 
+ CONCLUSION:
+ 
+ Widespread metastatic disease.

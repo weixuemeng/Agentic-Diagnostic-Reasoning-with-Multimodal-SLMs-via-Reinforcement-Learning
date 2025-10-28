@@ -1,0 +1,33 @@
+                                 FINAL REPORT
+ INDICATION:  ___ year old woman with breast cancer had a PICC line placed weeks
+ ago, pre placement measurement was 47 cm, it was removed yesterday, and
+ unfortunately measured at 44 cm.  Didn't look broken, however, the discrepancy
+ remains. Likely the initial measurement was not correct, however needs CXR to
+ evaluate. Thank you!  // Is there PICC line still in patient?
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph from ___
+ 
+ FINDINGS: 
+ 
+ No evidence of retained PICC line.  Chronic elevation of left hemidiaphragm. 
+ Persistent small left pleural effusion and mild left basilar atelectasis. 
+ Interval resolution of right pleural effusion and basilar atelectasis.  The
+ cardiomediastinal contours are normal.  The pleural surfaces are normal.  The
+ spinal fusion hardware is intact.  Mild thoracolumbar scoliosis.
+ 
+ IMPRESSION: 
+ 
+ 1.  No overt evidence of retained PICC line but a small fragment online in the
+ lungs or heart would be better detected by chest CT than conventional
+ radiographs.  If clinical concern remains, CT imaging would be recommended.
+ 2.  Interval resolution of right pleural effusion with persistence of left
+ pleural effusion and basilar atelectasis.
+ 
+ RECOMMENDATION(S):  CT imaging can be considered if concern remains for a
+ fractured PICC line.
+ 
+ NOTIFICATION:   The impression above was entered by Dr. ___ ___ on
+ ___ at 11:57 into the Department of Radiology critical communications
+ system for direct communication to the referring provider.

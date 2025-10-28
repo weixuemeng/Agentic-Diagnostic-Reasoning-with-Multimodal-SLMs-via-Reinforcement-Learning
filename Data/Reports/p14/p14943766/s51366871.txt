@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ INDICATION:  Cough.  Assess for pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  Streaky opacities in the left lower lobe are likely atelectasis. 
+ The lungs are otherwise clear.  The heart size is normal.  The mediastinal
+ contours are normal.  Blunting of the posterior costophrenic angle indicates a
+ tiny pleural effusion.  No pneumothorax is seen.
+ 
+ IMPRESSION:  
+ 
+ 1. Subsegmental left lower lobe atelectasis.
+ 
+ 2. Tiny pleural effusion on either the right or left side.

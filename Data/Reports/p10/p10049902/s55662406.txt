@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Pneumonia in ___.  Please assess for interval change.
+ 
+ COMPARISON:  Comparison made to chest radiograph performed ___.
+ 
+ FINDINGS:  Chest PA and lateral radiograph demonstrates unremarkable
+ mediastinal, hilar and cardiac contours.  The lungs are clear.  No pleural
+ effusion or pneumothorax evident.
+ 
+ IMPRESSION:  Interval resolution of pneumonia.

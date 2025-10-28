@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior exam from ___.
+ 
+ CLINICAL HISTORY:  DOE, question pneumonia or CHF.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  Mild linear
+ basilar atelectasis on the left is noted.  Nipple shadows are noted
+ bilaterally.  No signs of pneumonia or CHF.  Cardiomediastinal silhouette is
+ normal.  No bony abnormalities.

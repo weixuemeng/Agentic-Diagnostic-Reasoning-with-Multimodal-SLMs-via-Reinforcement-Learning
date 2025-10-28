@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ INDICATION:  Rule out pneumonia.
+ 
+ COMPARISON:  Chest radiographs ___, chest radiograph ___.
+ 
+ FINDINGS:  The cardiomediastinal and hilar contours are normal.  There is no
+ pleural effusion or pneumothorax. The lungs are hyperinflated.  Previously
+ seen right base opacity has improved, but some atelectasis still persists. 
+ Nodular opacity at the left apex still persists and is unchanged since ___. Pulmonary vasculature is within normal limits.
+ 
+ IMPRESSION:
+ 1.  Improved right base opacity with no new focal findings concerning for
+ pneumonia.
+ 2.  Persistent unchanged left apical opacity, inconsistent with pneumonia.  CT
+ is recommended for further evaluation.
+ 
+ Dr. ___ ___ these results into the Critical Results Dashboard on
+ ___ at 4:44 PM.

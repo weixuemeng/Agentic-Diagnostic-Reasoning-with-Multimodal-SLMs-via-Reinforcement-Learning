@@ -1,0 +1,16 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ Comparison is made with a prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  ___-year-old man with fatigue, assess for pneumonia or CHF.
+ 
+ FINDINGS:  PA and lateral views of the chest are obtained.  Left chest wall
+ pacer with dual leads entering the expected location of the right atrium and
+ right ventricle appear unchanged.  The heart is stable and top normal in size.
+ The aorta is unfolded, though appears unchanged.  The lungs are clear without
+ focal consolidation, effusion, pneumothorax.  A slightly thickened appearance
+ of the right major fissure is stable.  No signs of edema.  Bony structures are
+ intact.
+ 
+ IMPRESSION:  Mild cardiomegaly with no evidence of pneumonia or CHF.

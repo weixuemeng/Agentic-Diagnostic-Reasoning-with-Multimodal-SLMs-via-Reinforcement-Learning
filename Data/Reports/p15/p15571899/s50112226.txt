@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluation of patient with fever.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:
+ A new focal opacity is visualized overlying the left lower lobe.  Otherwise,
+ the right hemithorax is clear.  The lungs are hyperinflated suggesting
+ underlying COPD.  Cardiomediastinal silhouette is normal.  No acute fractures
+ are identified.
+ 
+ IMPRESSION:  New opacity overlying the left lower lobe is suggestive of a new
+ developing pneumonia in this region.

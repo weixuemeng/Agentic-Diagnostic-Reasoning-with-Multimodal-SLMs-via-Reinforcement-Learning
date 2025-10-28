@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior exam from ___.
+ 
+ CLINICAL HISTORY:  Shortness of breath, fever, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest provided demonstrate clips in the
+ midabdomen.  The lungs are clear.  The heart is normal in size with an LV
+ configuration.  The aorta is unfolded.  No pneumothorax or effusion.  Bony
+ structures are intact.

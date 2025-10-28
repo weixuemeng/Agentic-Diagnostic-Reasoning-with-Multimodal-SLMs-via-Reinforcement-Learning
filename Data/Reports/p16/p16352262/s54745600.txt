@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION:  Patient with left-sided chest pain.  Evaluate for cardiomegaly,
+ CHF.
+ 
+ TECHNIQUE:  PA and lateral chest radiographs were obtained.
+ 
+ COMPARISON:  ___.
+ 
+ REPORT:  The heart size is probably just within normal limits given
+ projection.  The lungs are grossly clear.  Pneumonia identified on prior study
+ in ___ in the right upper lung zone has resolved.
+ 
+ CONCLUSION:  No acute cardiopulmonary finding.

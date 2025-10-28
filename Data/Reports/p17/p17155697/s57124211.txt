@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Metastatic myxoid sarcoma, evaluation for interval change.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, there is a newly appeared,
+ huge, approximately 7 cm large right dorsal lesion.  The lesion abuts the
+ pleura and is likely to represent a metastatic disease.  The marked elevation
+ of the right hemidiaphragm is unchanged.  Moderate cardiomegaly persists.  No
+ other lung lesions.
+ 
+ At the time of dictation and observation, the finding was entered into the
+ Radiology dashboard system.

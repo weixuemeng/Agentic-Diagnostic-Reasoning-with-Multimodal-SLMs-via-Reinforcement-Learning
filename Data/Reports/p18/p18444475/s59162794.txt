@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ HISTORY:  ___-year-old male with chest pain.  Evaluation for acute process.
+ 
+ COMPARISON:  Comparison is made to radiograph of the chest from ___.
+ 
+ FINDINGS:  PA and lateral views of the chest demonstrate the lungs are well
+ expanded.  A tubular structure in the anterior segment of the left lower lobe
+ is likely due to mucoid impaction.  The cardiomediastinal silhouette is
+ unremarkable.  There is no evidence of pulmonary edema comparable effusion,
+ pneumothorax or focal consolidation concerning for pneumonia.
+ 
+ IMPRESSION:  Possible localized mucoid impaction in the anterior segment of
+ the left lower lobe.  Recommend followup CXR in 4 weeks to ensure resolution
+ as entered in radiology communications dashboard.

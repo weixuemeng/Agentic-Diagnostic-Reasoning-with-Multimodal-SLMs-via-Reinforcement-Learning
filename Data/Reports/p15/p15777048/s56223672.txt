@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ Comparison is made with a prior study from ___.
+ 
+ CLINICAL HISTORY:  Chest pain.
+ 
+ FINDINGS:  PA and lateral views of the chest provided.  Lung volumes are low
+ with bibasilar bronchovascular crowding.  No signs of pneumonia or CHF.  The
+ heart is moderately enlarged, though incompletely characterized given low lung
+ volumes.  The mediastinal contour is normal.  No effusion or pneumothorax. 
+ Bony structures are intact.
+ 
+ IMPRESSION:  Cardiomegaly without evidence of pulmonary edema.

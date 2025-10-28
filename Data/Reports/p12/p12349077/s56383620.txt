@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluation of patient with fever.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  There is mild left basilar atelectasis; otherwise, the lungs are
+ clear with no evidence of a consolidation, effusion, or pneumothorax. 
+ Cardiomediastinal silhouette is normal.  Atherosclerotic calcifications are
+ noted at the aortic arch.  No acute fractures are identified.
+ 
+ IMPRESSION:  Mild left basilar atelectasis with no acute cardiopulmonary
+ process.

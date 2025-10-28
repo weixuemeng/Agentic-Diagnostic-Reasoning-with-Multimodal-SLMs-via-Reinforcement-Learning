@@ -1,0 +1,23 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  New dyspnea on exertion.  Evidence of chronic heart failure and
+ interstitial lung disease.
+ 
+ COMPARISON:  No direct chest radiographic comparison available, the
+ examination is compared to a CTA examination from ___.
+ 
+ FINDINGS:  The lung volumes are low.  Moderate cardiomegaly and tortuosity of
+ the thoracic aorta but without evidence of overt pulmonary edema.  At the
+ right lung bases, appreciated on both the lateral and the frontal view, there
+ is a subtle increase of interstitial structures, notably in the peribronchial
+ areas.  Moreover, there is a subtle zone of parenchymal opacity in the right
+ upper lobe, supporting the suspicion of the presence of a diffuse interstitial
+ process.  CT should be performed to confirm or rule out this suspicion. 
+ Severe aortic calcifications.  Severe valvular ring calcifications.  No
+ pneumothorax.  No pleural effusions.
+ 
+ The information was added to the radiology dashboard.  
+ 
+ Moreover, the referring physician was paged at the time of observation and
+ dictation.

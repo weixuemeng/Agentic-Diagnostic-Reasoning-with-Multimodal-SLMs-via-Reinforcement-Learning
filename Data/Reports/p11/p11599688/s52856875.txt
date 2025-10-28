@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ INDICATION:  PICC line placement.
+ 
+ COMPARISON:  Chest x-ray on ___.
+ 
+ FINDINGS:  One upright portable chest x-ray.  The right PICC line ends in the
+ mid SVC.  ICD lead ends likely in the right ventricle; however, the tip is not
+ visualized.  There is mild left lower lobe atelectasis.  Otherwise, the lungs
+ are clear.  There is possible small right pleural effusion.
+ 
+ IMPRESSION:
+ 1.  Right PICC line ends in the mid SVC.
+ 2.  Mild left lower lobe atelectasis.  Possible small right pleural effusion.

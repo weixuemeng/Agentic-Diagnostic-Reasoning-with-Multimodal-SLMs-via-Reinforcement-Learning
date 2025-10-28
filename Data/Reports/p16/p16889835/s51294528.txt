@@ -1,0 +1,27 @@
+                                 FINAL REPORT
+ INDICATION:  ___ year old woman with history of positive PPD, CXR 2 weeks ago
+ showed no active TB but ? ovoid shadow on RLL, recommended f/u imaging.  //
+ CXR at outside facility, which was done for +PPD, showed ovoid shadow in RLL,
+ not well characterized, ?artifact. Film has been forwarded for second read.
+ 
+ COMPARISON:  The comparison is made with prior studies including ___.
+ 
+ IMPRESSION: 
+ 
+ The apparent density in the right lung base on the earlier study is not
+ clearly visualized on today's exam and likely represented overlap of normal
+ structures.
+ There are some very tiny nodular densities in both lungs which could represent
+ vessels on end, but small granuloma cannot be completely excluded, especially
+ in the setting of a positive PPD.  Further evaluation with chest CT would be
+ recommended.
+ There is no pneumothorax, effusion, dense consolidation or CHF.
+ 
+ NOTIFICATION:  A reported of the above findings was sent via the InfoRadiology
+ Non-Urgent Critical Findings Dashboard by Dr. ___ on ___ at 2:20 PM,
+ 5 minutes after discovery of the findings.
+ 
+ RECOMMENDATION(S):  There are some very tiny nodular densities in both lungs
+ which could represent vessels on end, but small granuloma cannot be completely
+ excluded, especially in the setting of a positive PPD. Further evaluation with
+ chest CT would be recommended.

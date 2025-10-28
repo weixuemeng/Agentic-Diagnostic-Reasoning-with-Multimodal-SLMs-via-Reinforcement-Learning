@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ INDICATION:  Fever and cough in a patient with lymphoma, on chemotherapy.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  Chest, PA and lateral.  The lungs are hyperexpanded, but clear. 
+ There is mediastinal and hilar enlargement, consistent with the patient's
+ history of lymphoma.  There is no pneumothorax or pleural effusion.  Pulmonary
+ vascularity is normal.  Heart size is normal.  There is a left chest wall
+ Port-A-Cath terminating within the right atrium.
+ 
+ IMPRESSION:  Hyperinflated but clear lungs.  Mediastinal and hilar enlargement
+ consistent with the patient's lymphoma.

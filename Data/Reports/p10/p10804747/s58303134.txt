@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ INDICATION:  ___-year-old woman with emphysema and CHF, is here for follow-up
+ of pneumonia.
+ 
+ COMPARISON:  Chest radiograph ___ and a chest CT ___.
+ 
+ PA AND LATERAL CHEST RADIOGRAPHS:  The cardiomediastinal and hilar contours
+ are normal.  A 15 mm peripheral nodular opacity in the right upper lobe is
+ stable since the prior CT of ___.  No new consolidation, pulmonary
+ edema, or pleural effusion is seen.  Hyperlucent upper lung zone suggests
+ emphysema.
+ 
+ IMPRESSION:
+ 1.  A 15 mm peripheral opacity in the right upper lobe stable since 
+ ___.  A chest CT is recommended to rule out an underlying mass.  
+ 2.  No evidence of pneumonia. 
+ 
+ Findings added to radiology critical report dashboard.

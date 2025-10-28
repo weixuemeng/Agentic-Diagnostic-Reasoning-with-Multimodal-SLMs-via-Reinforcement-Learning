@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ INDICATION:  Patient with chest pain.  Assess for cardiomegaly.
+ 
+ COMPARISONS:  Chest radiograph from ___.
+ 
+ FINDINGS: Portable upright view of the chest demonstrates normal lung volumes
+ without pleural effusion, focal consolidation or pneumothorax. Previously
+ noted pulmonary edema has resolved. The hilar and mediastinal silhouettes are
+ unremarkable.  Heart size is mildly enlarged.  Partially imaged upper abdomen
+ is unremarkable.
+ 
+ IMPRESSION:  Persistent cardiomegaly, otherwise normal.

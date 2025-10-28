@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Chest CT from ___ and a chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Chest pain.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  The heart is top
+ normal in size and the aorta is unfolded.  There is no focal consolidation to
+ suggest pneumonia.  No signs of CHF, pneumothorax or pleural effusion.  The
+ bony structures are intact.
+ 
+ IMPRESSION:  No acute findings in the chest.  Please refer to subsequent CTA
+ chest for further details.

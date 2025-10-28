@@ -1,0 +1,19 @@
+ WET READ: ___ ___ ___ 12:57 AM
+  PICC line terminates in upper/mid SVC.
+ WET READ VERSION #1 
+ WET READ VERSION #2 ___ ___ ___ 12:56 AM
+  PICC line terminates in upper SVC.
+  
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  PICC line placement.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, the nasogastric tube has
+ been removed.  The left PICC line is in unchanged position.  The tip of the
+ line projects over the mid SVC.  The course of the line is unremarkable, no
+ pneumothorax or other complications.  Minimal atelectasis at the right lung
+ bases.  No other changes.

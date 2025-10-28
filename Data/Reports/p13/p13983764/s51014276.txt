@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ INDICATION:  ___-year-old male with dyspnea on exertion, rule out CHF,
+ infiltrate, or underlying pathology.
+ 
+ COMPARISONS:  PA and lateral chest radiographs from ___.
+ 
+ FINDINGS:  There is no focal consolidation, pleural effusion, or pneumothorax.
+ Marked dimunition of pulmonary vasculature in the upper lobes may be due to
+ emphysema or brochiolitis obliterans. The cardiomediastinal silhouette is
+ normal.  There are no acute skeletal abnormalities.
+ 
+ IMPRESSION:  
+ 1. No acute cardiopulmonary process.
+ 2. Marked dimunition of pulmonary vasculature in the upper lobes may be due to
+ emphysema or bronchiolitis obliterans.  Consider further evaluation with CT
+ Chest. 
+ 
+ These findings were entered into the critical results dashboard by Dr.
+ ___ at 1:40pm on the day of the study.

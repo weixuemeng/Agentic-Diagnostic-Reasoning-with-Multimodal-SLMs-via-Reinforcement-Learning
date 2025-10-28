@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ INDICATION:  Hypotension and atrial fibrillation.  Evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  The portable upright radiograph of the chest demonstrates moderate
+ cardiomegaly, progressed from the prior study.  The lungs are hyperinflated,
+ consistent with COPD.  There is no focal consolidation or pulmonary edema. 
+ There is no pneumothorax or pleural effusion.
+ 
+ IMPRESSION:  Moderate cardiomegaly, progressed from ___.  COPD.

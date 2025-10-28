@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior chest CT from ___ and chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Lymphoma with weakness, assess for pneumonia.
+ 
+ FINDINGS:  Streaky perihilar opacities are noted, not significantly changed. 
+ No lobar consolidation, effusion or pneumothorax.  The heart size remains
+ stable.  Bony structures are intact.
+ 
+ IMPRESSION:  Streaky perihilar opacities are unchanged.  Please refer to
+ subsequently obtained CT chest for further details.

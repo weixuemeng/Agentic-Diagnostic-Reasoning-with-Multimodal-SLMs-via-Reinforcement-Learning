@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ INDICATION:  Fever.  Assess for pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  Lung volumes are low, decreased compared to the prior study from
+ ___, causing exaggeration of the heart size and accentuation of
+ the pulmonary vasculature.  The lungs are clear.  The heart size is normal. 
+ The mediastinal contours are normal.  There are no pleural effusions.  No
+ pneumothorax is seen.  A right internal jugular central venous catheter ends
+ in the mid SVC, new compared to the prior study from ___.
+ 
+ IMPRESSION:  No acute cardiac or pulmonary process.

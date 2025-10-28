@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Comparison made with a prior study from ___.
+ 
+ CLINICAL HISTORY:  Chest pain, shortness of breath, assess for pneumonia.
+ 
+ FINDINGS:  Portable AP upright chest radiograph was provided.  Lungs are clear
+ bilaterally without focal consolidation, effusion, or pneumothorax.  The heart
+ and mediastinal contours appear normal.  Bony structures are intact.
+ 
+ IMPRESSION:  No acute findings in the chest.  Please refer to subsequently
+ performed CT chest, abdomen and pelvis for further details.

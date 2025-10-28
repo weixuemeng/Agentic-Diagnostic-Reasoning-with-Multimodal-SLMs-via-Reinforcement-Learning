@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluation of patient with dyspnea.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  Lung volumes are low but the lungs are clear with no evidence of a
+ consolidation, effusion, or pneumothorax.  Cardiomediastinal silhouette is
+ normal.  No acute fractures are identified.
+ 
+ IMPRESSION:  Low lung volumes with no focal consolidations.

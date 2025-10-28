@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION:  ___-year-old female with chest pain.  Query cardiomegaly.
+ 
+ TECHNIQUE:  Two views of the chest were obtained.
+ 
+ COMPARISON:  None.
+ 
+ REPORT:
+ Cardiomediastinal silhouette is unremarkable.  The lungs are clear.  There is
+ probably a pectus carinatum deformity.  No acute cardiopulmonary finding.
+ 
+ CONCLUSION:  No acute cardiopulmonary findings.

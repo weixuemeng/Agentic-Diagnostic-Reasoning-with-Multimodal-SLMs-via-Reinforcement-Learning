@@ -1,0 +1,35 @@
+                                 FINAL REPORT
+ EXAMINATION:  Portable chest radiograph
+ 
+ INDICATION:  ___ year old man with intubated // eval for interval change
+ 
+ TECHNIQUE:  Portable chest radiograph
+ 
+ COMPARISON:  Portable chest radiograph dated ___
+ 
+ FINDINGS: 
+ 
+ Of note, the image timestamp ___ at 18:20 is correct.  The PACS
+ timestamp of ___ at 13:05 is incorrect.
+ 
+ In comparison to the chest radiograph obtained 2 days prior, there is new
+ right middle and lower lobe collapse with rightward shift of the mediastinum.
+ There has also been interval placement of a tracheostomy, placement of a
+ right-sided IJ central venous catheter which terminates the upper SVC, and
+ removal of an enteric tube.    Moderate pulmonary edema has increased in
+ severity, more apparent in the perihilar and basal left lung.  Pleural
+ effusions small, if any. No pneumothorax. Mediastinum incompletely evaluated
+ due to patient rotation ; attention on subsequent radiographs.  The right
+ subclavian central venous catheter is unchanged in position within the lower
+ SVC.  Incidental note is made of an azygos lobe.
+ 
+ IMPRESSION: 
+ 
+ New right middle and lower lobe collapse.  Increased, moderate  pulmonary
+ edema.  Interval placement of a tracheostomy without pneumothorax or other
+ obvious acute complications.  New, right-sided IJ central venous catheter
+ terminates the upper SVC.
+ 
+ NOTIFICATION:   The findings were discussed by Dr. ___ with Dr.
+ ___ on the telephone on ___ at 03:41 PM, approximately 60
+ minutes after discovery of the findings.

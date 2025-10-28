@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___.
+ 
+ COMPARISON:  ___.
+ 
+ CLINICAL HISTORY:  CHF history, leukocytosis, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest are provided, demonstrating mild
+ cardiomegaly without signs of congestive heart failure.  No focal
+ consolidation, effusion, or pneumothorax.  The aorta is unfolded, though this
+ is stable.  Bony structures are intact.
+ 
+ IMPRESSION:  No evidence of pneumonia or CHF.

@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ INDICATION:  Prostate cancer, fever, hypoxia.
+ 
+ COMPARISON:  Chest radiograph on ___.
+ 
+ FINDINGS:  There are bibasilar vague opacities.  The lung volumes are low and
+ there is significant overlying soft tissue which limits evaluation.  There is
+ likely pulmonary vascular congestion and mild cardiomegaly.  Pneumonia at the
+ lung bases cannot be entirely ruled out.  There is no pneumothorax.  There is
+ a possible small right pleural effusion.
+ 
+ IMPRESSION:  Bibasilar vague opacities may represent atelectasis given low
+ lung volumes; however, pneumonia cannot be ruled out.

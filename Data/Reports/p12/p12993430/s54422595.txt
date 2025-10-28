@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ INDICATION:  Fever.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  There is little interval change in comparison to a prior study. 
+ The lungs are clear with no evidence of a consolidation, effusion, or
+ pneumothorax.  Cardiomediastinal silhouette is normal.  No acute fractures are
+ identified.
+ 
+ IMPRESSION:  No acute cardiopulmonary process.

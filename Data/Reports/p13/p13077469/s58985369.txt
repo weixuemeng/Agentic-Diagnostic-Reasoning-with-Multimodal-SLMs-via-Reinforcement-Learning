@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___.
+ 
+ COMPARISON:  Prior exam from ___.
+ 
+ CLINICAL HISTORY:  Chills, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  Mild cardiomegaly
+ is stable with mild pulmonary edema.  No large effusion or pneumothorax. 
+ Mediastinal contour is stable.  Bony structures are intact.
+ 
+ IMPRESSION:  Stable cardiomegaly with mild pulmonary edema.

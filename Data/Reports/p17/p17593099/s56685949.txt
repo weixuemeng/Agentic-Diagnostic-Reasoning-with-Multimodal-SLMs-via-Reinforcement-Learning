@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___.
+ 
+ COMPARISON:  ___.
+ 
+ CLINICAL HISTORY:  Cough, pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were obtained demonstrating
+ hyperinflated lungs without focal consolidation, effusion, or pneumothorax. 
+ Heart size is normal, although stable.  Atherosclerotic calcifications along
+ the aortic knob noted.  Bony structures appear intact.
+ 
+ IMPRESSION:  Hyperinflated lungs, without signs of pneumonia.

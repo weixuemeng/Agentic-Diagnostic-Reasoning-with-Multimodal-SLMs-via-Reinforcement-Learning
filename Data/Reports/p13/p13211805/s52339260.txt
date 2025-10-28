@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Pleuritic chest pain, assess for pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  The lung volumes
+ are low with bronchovascular crowding likely accounting for subtle opacities
+ in the medial lung bases.  No convincing signs of pneumonia, CHF, effusion or
+ pneumothorax.  The heart size is stable.  Mediastinal contour is unremarkable
+ and unchanged.  The bony structures are intact.
+ 
+ IMPRESSION:  Limited, negative.

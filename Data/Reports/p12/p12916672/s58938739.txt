@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ HISTORY:  Fever, evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph ___.
+ 
+ FINDINGS: Frontal and lateral views of chest show no pleural effusion,
+ pneumothorax or focal airspace consolidation.  The lungs are well inflated. 
+ The cardiac and mediastinal contours are unremarkable.  The hilar structures
+ are normal.
+ 
+ IMPRESSION: No acute cardiopulmonary process.

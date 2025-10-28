@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ HISTORY:  Diaphoresis and EKG changes.
+ 
+ COMPARISONS:  Radiographs from ___.
+ 
+ TECHNIQUE:  Chest, portable AP upright.
+ 
+ FINDINGS:  The heart is mild to moderately enlarged.  The lungs appear clear. 
+ There are no pleural effusions or pneumothorax.  The lung volumes are low.
+ 
+ IMPRESSION:  Stable cardiomegaly.  No evidence of acute cardiopulmonary
+ disease.

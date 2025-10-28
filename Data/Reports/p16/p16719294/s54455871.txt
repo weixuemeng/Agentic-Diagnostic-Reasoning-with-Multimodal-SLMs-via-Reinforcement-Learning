@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ INDICATION:  Fever and pleuritic chest pain, evaluate for pneumonia or
+ pneumothorax.
+ 
+ COMPARISON:  Chest radiograph on ___.
+ 
+ FINDINGS:  PA and lateral views of the chest.  In the left lower lobe, there
+ is an opacity that obscures the diaphragm consistent with pneumonia.  There is
+ likely a small left pleural effusion.  The right lung is clear and there is no
+ pleural effusion on the right.  The cardiomediastinal silhouette is normal. 
+ There is no pneumothorax.
+ 
+ IMPRESSION:  Left lower lobe pneumonia.  Recommend followup imaging after
+ resolution of symptoms.

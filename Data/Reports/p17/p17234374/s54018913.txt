@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Asymptomatic, chest x-ray for employment.
+ 
+ COMPARISON:  Chest radiographs from ___.
+ 
+ FINDINGS:  PA and lateral views of the chest.  The lungs are clear.  There is
+ no pleural effusion, pneumothorax or consolidation.  The cardiac, mediastinal,
+ and hilar contours are normal.  
+ 
+ IMPRESSION:  Normal radiographic examination of the chest.

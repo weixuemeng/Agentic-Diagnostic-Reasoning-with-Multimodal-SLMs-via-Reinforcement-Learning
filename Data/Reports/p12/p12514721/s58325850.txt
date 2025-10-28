@@ -1,0 +1,20 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  ___ and PET-CT from ___.
+ 
+ CLINICAL HISTORY:  Short of breath, wheezing, assess for pneumonia or CHF. 
+ Patient has a history of non-small cell lung cancer.
+ 
+ FINDINGS:  AP upright chest radiograph obtained.  A metallic clip at the right
+ medial lower lung resides within a known pulmonary nodule.  There is a
+ retrocardiac opacity, compatible with large hiatal hernia.  Compared with the
+ prior chest radiograph, there is interval development of micronodular opacity
+ within the right lower lung which could reflect treatment-related change or
+ possibly aspiration.  Otherwise, the lungs are clear.  Cardiomediastinal
+ silhouette is stable.  Bony structures appear intact.
+ 
+ IMPRESSION:  Retrocardiac opacity compatible with hiatal hernia.  Micronodule
+ opacity in the right lower lung could represent post-treatment change or
+ aspiration.  Known lung nodule marked with fiducial marker, better assessed on
+ prior CT PET.

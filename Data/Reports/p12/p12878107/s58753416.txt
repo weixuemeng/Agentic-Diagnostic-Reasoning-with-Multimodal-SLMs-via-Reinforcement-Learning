@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ PA AND LATERAL CHEST X-RAY
+ 
+ INDICATION:  Fever, cough productive, phlegm shortness of breath, treatment
+ one week ago with antibiotics, rule out pneumonia.
+ 
+ COMPARISON:  Chest x-rays from ___ to ___.
+ 
+ FINDINGS:
+ 
+ The lungs are clear; however, there is increased convexity at the right
+ cardiophrenic angle since ___.  This could only be an increasing cardiac fat
+ pad; however, an underlying lesion cannot be excluded.  For this reason, a CT
+ scan is suggested.  The remaining of the exam is normal.  
+ 
+ The results were posted to the radiology dashboard for direct notification of
+ the referring physician.

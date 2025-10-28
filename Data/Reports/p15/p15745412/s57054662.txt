@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Dizziness, assess cardiomegaly.
+ 
+ FINDINGS:  Frontal and lateral views of the chest provided demonstrate clear
+ lungs, though lung volumes are low.  The heart size is grossly stable, though
+ lung volumes limit evaluation.  Mediastinal contour is unremarkable.  No
+ pneumothorax or pleural effusion.  Bony structures are intact.
+ 
+ IMPRESSION:  Limited exam due to low lung volumes without acute intrathoracic
+ process.

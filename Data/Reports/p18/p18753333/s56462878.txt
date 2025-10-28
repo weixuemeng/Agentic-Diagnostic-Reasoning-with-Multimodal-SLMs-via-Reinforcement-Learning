@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Influenza pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, no relevant change is seen.
+ The known cortical irregularity in the left rib is constant in appearance. 
+ The lung parenchyma shows normal structure and transparency.  Borderline size
+ of the cardiac silhouette without overt pulmonary edema.  No pleural
+ effusions.  Normal mediastinal structures.

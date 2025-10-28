@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior exam from ___.
+ 
+ CLINICAL HISTORY:  ___-year-old man with fever to 106, assess pneumonia.
+ 
+ FINDINGS:  AP upright frontal and lateral views of the chest were performed
+ portably.  Lung volumes are low.  No definite consolidation, effusion, or
+ pneumothorax seen.  The heart size appears top normal, though this can be
+ partially magnified due to technique.  The mediastinal contour is normal. 
+ Bony structures are intact.
+ 
+ IMPRESSION:  Low lung volumes, no acute findings.

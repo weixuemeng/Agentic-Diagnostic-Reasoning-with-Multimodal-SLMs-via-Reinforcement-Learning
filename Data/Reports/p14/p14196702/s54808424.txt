@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ INDICATION:  Tachycardia.  Evaluate for pneumonia.
+ 
+ COMPARISONS:  Chest radiograph of ___.
+ 
+ FINDINGS:  There is a hazy rounded opacity in the left upper lung zone which
+ is new from the prior chest x-ray and most consistent with pneumonia.  The
+ right lung is clear.  There is no evidence of edema, pleural effusion, or
+ pneumothorax.  The cardiomediastinal silhouette is normal.
+ 
+ IMPRESSION:  Left upper lobe pneumonia.

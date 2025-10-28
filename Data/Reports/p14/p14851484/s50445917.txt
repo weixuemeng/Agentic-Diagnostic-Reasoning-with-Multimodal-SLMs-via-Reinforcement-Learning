@@ -1,0 +1,26 @@
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___ year old man with new cough  // Pneumonia?
+ 
+ TECHNIQUE:   PA and lateral
+ 
+ COMPARISON:   Chest x-rays dating back to ___
+ 
+ FINDINGS: 
+ 
+ ICD device has 2 leads terminating in what appears to be the right atrium and
+ right ventricle. The left hemidiaphragm has been elevated since radiograph
+ dated ___ and is largely unchanged. There is no definite pleural
+ effusion. There is no pneumothorax. The lung parenchyma is without
+ consolidation, however a suspicious left mid lung nodule measures 5 mm as
+ compared to 3 mm on prior examination (___). There is moderate
+ cardiomegaly.
+ 
+ IMPRESSION: 
+ 
+ Suspicious left mid lung nodule measuring 5 mm as compared to 3 mm on prior
+ examination dated ___; CT is recommended for characterization.
+ 
+ NOTIFICATION:  The above findings were entered into the critical results
+ dashboard at 3:35 PM on ___.

@@ -1,0 +1,29 @@
+ WET READ: ___ ___ ___ 8:10 AM
+  1. INterstitial edema.
+  2. Cardiac enlargement may be due to developing pericardial effusion.
+ WET READ VERSION #1 
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  ___-year-old male with chest pain post cardiac resynchronization
+ procedure.  Evaluate for evidence of CHF.
+ 
+ COMPARISON:  Multiple prior chest radiographs, most recent from ___.
+ 
+ TECHNIQUE:  Portable frontal AP chest radiograph.
+ 
+ FINDINGS:  The heart is severely enlarged, worsened from prior, with increased
+ bulging of the right border compared with prior exam.  There is bilateral
+ diffuse interstitial opacities and hilar engorgement with associated
+ left-sided pleural effusion.  There is no pneumothorax.  A biventricular
+ pacemaker is again noted with the leads in unchanged position.
+ 
+ IMPRESSION:
+ 
+ 1.  Acute interstitial edema with accompanying left-sided pleural effusion.
+ 
+ 2.  Significant enlargement of the cardiac contour with increased bulging of
+ the right border raises concern for developing pericardial effusion.
+ 
+ These findings were entered in the ED dashboard as an Urgent flagged wet read
+ by Dr. ___ on ___ at 8:10 a.m. immediately after discussion with the
+ attending and approximately 15 minutes after image acquisition.

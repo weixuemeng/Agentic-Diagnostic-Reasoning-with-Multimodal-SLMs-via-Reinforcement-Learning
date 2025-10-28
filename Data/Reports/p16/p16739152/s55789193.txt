@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient with history of CAD, now has shortness of breath,
+ pulmonary edema, pneumonia.
+ 
+ COMPARISON:  Multiple chest x-rays from ___.
+ 
+ FINDINGS:
+ 
+ Moderate pulmonary edema is new, with increased small bilateral pleural
+ effusion and compressive atelectasis.  The patient has prior sternotomy for
+ CABG.  Mild cardiomegaly is unchanged.  There is no pneumothorax.
+ 
+ CONCLUSION:
+ 
+ Moderate pulmonary edema is new with increased small bilateral pleural
+ effusions.

@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior chest CTA from ___.
+ 
+ CLINICAL HISTORY:  Chest pain with history of lymphoma.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  The lungs are
+ clear.  No signs of pneumonia or CHF.  The cardiomediastinal silhouette
+ appears normal.  The imaged osseous structures are intact.
+ 
+ IMPRESSION:  No acute findings in the chest.  Please refer to subsequent CTA
+ chest for further details.

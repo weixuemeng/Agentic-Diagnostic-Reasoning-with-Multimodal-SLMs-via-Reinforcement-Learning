@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ STUDY:  CHEST RADIOGRAPH.
+ 
+ INDICATION:  Query cardiomegaly.
+ 
+ TECHNIQUE:  Two views were obtained.
+ 
+ COMPARISON:  ___.
+ 
+ REPORT:
+ 
+ The heart size is normal.  Lung parenchyma is grossly clear.  There may be a
+ little bit of bronchial wall thickening particularly in the right lower lobe. 
+ The appearances here are not specifically changed from prior study.  No acute
+ cardiopulmonary finding is noted.
+ 
+ CONCLUSION:
+ 
+ No definitive acute cardiopulmonary findings.

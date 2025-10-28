@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, no relevant change is seen.
+ Minimal atelectasis at the lung bases, left more than right, at very low lung
+ volumes.  Borderline size of the cardiac silhouette without pulmonary edema. 
+ No larger pleural effusions.  No pneumothorax.  No pneumonia.

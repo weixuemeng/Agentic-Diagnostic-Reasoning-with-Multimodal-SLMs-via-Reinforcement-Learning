@@ -1,0 +1,25 @@
+                                 FINAL REPORT
+ INDICATION:  History of reproducible chest pain over the left fourth/fifth
+ ribs.  Please evaluate for rib lesion.
+ 
+ COMPARISONS:  None.
+ 
+ TECHNIQUE:  PA and lateral radiographs of the chest.
+ 
+ FINDINGS:  The heart size is normal.  There appears to be effacement of the
+ right mediastinal border, which could be from a tortuous aorta or anterior
+ mediastinal mass.  Posteriorly in the retrocardiac region, note is made of a
+ small 7-mm nodule.  There is no pneumothorax. No pleural effusions are
+ identified.  Visualized osseous structures are unremarkable.
+ 
+ IMPRESSION: 
+ 
+ 1. Effacement of the right mediastinal border, either secondary to a tortuous
+ aorta or anterior mediastinal mass.
+ 
+ 2. 7-mm nodule seen in the retrocardiac region on the lateral radiograph.
+ 
+ Recommend CT with contrast for further evaluation.
+ 
+ Findings were placed in the critical results dashboard by Dr. ___ at 6p
+ on the day of the exam.

@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  No significant medical history, chronic cough, right-sided chest
+ pain.
+ 
+ COMPARISON:  No comparison available at the time of dictation.
+ 
+ FINDINGS:  Bilateral symmetrical apical thickening of mild severity.
+ 
+ In addition, the radiograph shows a soft tissue density 1-cm lung nodule in
+ the right lung apex, visible on the frontal radiograph only.  This nodule
+ needs to be further followed up by CT.  An according entry was made to the
+ radiology dashboard.
+ 
+ No other abnormalities in the lung parenchyma.  Normal size of the cardiac
+ silhouette.  No pleural effusions.  No hilar or mediastinal abnormalities.

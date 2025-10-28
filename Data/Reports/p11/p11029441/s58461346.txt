@@ -1,0 +1,20 @@
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___ year old woman with SOB X weeks  // ___ year old woman with SOB
+ X weeks      ___ year old woman with SOB X weeks
+ 
+ IMPRESSION: 
+ 
+ Comparison to ___.  The lung volumes remain normal.  On the
+ lateral radiograph, a 5 mm dense nodule is seen in unchanged manner,
+ projecting over the vertebral body.  However, there is a new nodular density
+ with a diameter of approximately 1 cm in the right upper lobe.  In addition,
+ there is mild spurring of the left heart border, potentially suggesting a
+ pneumonia in the lingula.
+ 
+ RECOMMENDATION(S):  CT is recommended to further workup the nodular right
+ upper lobe lesion.
+ 
+ NOTIFICATION:  The recommendation for CT follow-up was entered into the
+ radiology dashboard.

@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior exam dated ___.
+ 
+ CLINICAL HISTORY:  Shortness of breath, assess for pneumonia.
+ 
+ FINDINGS:  AP portable upright and lateral views of the chest are provided. 
+ The lungs are clear without focal consolidation, effusion, or pneumothorax. 
+ The heart is mildly enlarged.  The mediastinal contour and hilar configuration
+ is normal.  The bony structures are intact.  No large effusion or pneumothorax
+ is seen.  There is no free air below the right hemidiaphragm.
+ 
+ IMPRESSION:  Mild cardiomegaly.  Otherwise, unremarkable.

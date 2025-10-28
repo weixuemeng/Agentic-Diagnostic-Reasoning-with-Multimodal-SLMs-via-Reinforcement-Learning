@@ -1,0 +1,32 @@
+ PROVISIONAL FINDINGS IMPRESSION (PFI): ___ ___ ___ 1:15 PM
+  INDICATION:  Chest pain.
+  
+  COMPARISONS:  Chest radiographs from ___ and ___.
+  
+  TECHNIQUE:  A single upright AP view of the chest was obtained. 
+  
+  FINDINGS:  The lung volumes are low, somewhat limiting the exam.  Within the
+  limitations, the lungs are clear.  There is no consolidation, pulmonary edema,
+  pleural effusion, or pneumothorax.  The mediastinal contours are normal, and
+  allowing for changes in technique, the heart size is at the upper limits of
+  normal.  This is unchanged from the prior exam.  The patient is status post a
+  sternotomy and CABG.  The wires are intact.
+  
+  IMPRESSION:  No acute cardiopulmonary process.
+ PFI VERSION #1 
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION: Chest pain. 
+ 
+ COMPARISONS: Chest radiographs from ___ and ___. 
+ 
+ TECHNIQUE: A single upright AP view of the chest was obtained. 
+ 
+ FINDINGS: The lung volumes are low, somewhat limiting the exam. Within the
+ limitations, the lungs are clear. There is no consolidation, pulmonary edema,
+ pleural effusion, or pneumothorax. The mediastinal contours are stable, and
+ allowing for changes in technique, the heart size is at the upper limits of
+ normal. This is unchanged from the prior exam. The patient is status post a
+ sternotomy and CABG. The wires are intact. 
+ 
+ IMPRESSION: No acute cardiopulmonary process.

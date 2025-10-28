@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ Comparison is made with a prior exam from ___.
+ 
+ CLINICAL HISTORY:  Dyspnea and fever, please assess for pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest are provided.  There is residual
+ subcutaneous emphysema along the left lateral chest wall, which is improved
+ from prior exam.  There is bibasilar opacity which likely represents a
+ combination of atelectasis and effusion, overall increased from prior exam. 
+ The heart remains mildly enlarged.  The mediastinal contour is unchanged. 
+ There is no pneumothorax.  Retrocardiac density could also represent a hiatal
+ hernia.  The bony structures are intact.
+ 
+ IMPRESSION:  Increased bibasilar opacity likely representing a combination of
+ atelectasis and effusion, though pneumonia not entirely excluded.  Improving
+ left chest wall subcutaneous emphysema. Please refer to subsequent CTA chest
+ for further details.

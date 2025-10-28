@@ -1,0 +1,23 @@
+                                 FINAL REPORT
+ HISTORY:  Cough.  Evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:
+ 
+ Frontal and lateral chest radiographs demonstrate a left lower lobe opacity
+ consistent with pneumonia, with associated leftward mediastinal shift
+ concerning for volume loss.  This may represent postobstructive pneumonia.
+ Cardiomegaly is not well assessed secondary to this opacity, but is likely
+ unchanged.  There is no pneumothorax.
+ 
+ IMPRESSION:
+ 
+ Left lower lobe consolidation which, given leftward mediastinal shift, is
+ concerning for volume loss and postobstructive pneumonia.  A followup chest
+ radiograph should be obtained ___ weeks after the completion of the antibiotic
+ course.  If there is residual volume loss, then further evaluation with CT is
+ recommended.
+ 
+ These findings were entered into the critical communication dashboard by Dr.
+ ___ at ___ on ___.

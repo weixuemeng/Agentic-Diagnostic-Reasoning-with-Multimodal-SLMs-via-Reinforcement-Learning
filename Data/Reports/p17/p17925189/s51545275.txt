@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION:  Patient with fevers.  Evaluate for pneumonia.
+ 
+ TECHNIQUE:  PA and lateral radiographs were obtained.
+ 
+ COMPARISON:  ___.
+ 
+ REPORT:
+ 
+ The cardiomediastinal silhouette is normal.  The lungs appear grossly clear. 
+ No acute cardiopulmonary finding is noted.  Little interval change when
+ compared to prior study from ___ years previously.
+ 
+ CONCLUSION:
+ 
+ No acute findings.

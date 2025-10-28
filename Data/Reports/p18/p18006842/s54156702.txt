@@ -1,0 +1,9 @@
+                                 FINAL REPORT
+ HISTORY:  ICD lead extraction and replacement, to assess for pneumothorax.
+ 
+ FINDINGS:  In comparison with study of ___, the leads extending to the right
+ atrium and apex of the right ventricle are unchanged.  There now is a coronary
+ sinus lead with the tip positioned along the outer margin of the left
+ ventricle.
+ 
+ Specifically, there is no evidence of pneumothorax.

@@ -1,0 +1,9 @@
+                                 FINAL REPORT
+ INDICATION:  Chest pain.  Evaluate for pneumothorax or pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  The lungs are clear.  The cardiac and mediastinal contours are
+ normal.  There are no pleural effusions.  No pneumothorax is seen.
+ 
+ IMPRESSION:  No acute cardiac or pulmonary process.

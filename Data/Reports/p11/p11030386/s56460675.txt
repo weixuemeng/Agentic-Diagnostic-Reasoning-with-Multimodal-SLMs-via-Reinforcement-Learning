@@ -1,0 +1,20 @@
+                                 FINAL REPORT
+ EXAMINATION:  Chest radiograph
+ 
+ INDICATION:  ___ year old man with RLL Pneumonia on CXR done in ___. 
+ // Please assess for resolution of Pneumonia.
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiographs from ___ through ___
+ 
+ FINDINGS: 
+ 
+ The cardiomediastinal and hilar contours are normal and stable.  There is
+ streaky atelectasis at the base of the left lung.  There is no focal
+ consolidation, pleural effusion or pneumothorax.  A right lower lobe opacity
+ has resolved.  There is no effusion or
+ 
+ IMPRESSION: 
+ 
+ Streaky left basal atelectasis.  Right lower lobe opacity has resolved.

@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ Comparison made with a prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Cough, assess for pneumonia.
+ 
+ FINDINGS:  AP upright and lateral views of the chest provided.  There is
+ diffuse pulmonary edema with small bilateral effusions.  The heart is
+ moderately enlarged.  Mediastinal contour is stable.  Bony structures intact.
+ 
+ IMPRESSION:  Cardiomegaly, pulmonary edema and small bilateral pleural
+ effusions.

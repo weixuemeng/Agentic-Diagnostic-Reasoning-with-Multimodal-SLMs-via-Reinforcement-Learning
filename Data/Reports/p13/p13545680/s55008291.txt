@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ INDICATION:  Chest pain.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  Lung volumes are low and exaggerate pulmonary vascular markings. 
+ Otherwise, the lungs are clear with no evidence of consolidation, effusion, or
+ pneumothorax.  Cardiomediastinal silhouette is normal.  The aorta is stably
+ tortuous.
+ 
+ IMPRESSION:  No acute cardiopulmonary process.

@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ INDICATION:  Followup of right middle lobe pneumonia.
+ 
+ COMPARISON:  Multiple priors, beginning on ___.
+ 
+ FINDINGS:  PA and lateral chest radiographs again demonstrate a right middle
+ lobe opacity with evidence of atelectasis, mildy improved since ___. 
+ There is persistent elevation of the right hemidiaphragm of unknown age. 
+ There is no pleural effusion or pneumothorax.  The cardiomediastinal
+ silhouette is within normal limits.
+ 
+ IMPRESSION:  Right middle lobe opacity slowly, but steadily improving.  This
+ can be followed with repeat chest radiograph in ___ weeks.  Otherwise,
+ CT-Chest is recommended.
+ 
+ Findings were entered into the critical results dashboard by ___
+ at 4:50 p.m. on ___.

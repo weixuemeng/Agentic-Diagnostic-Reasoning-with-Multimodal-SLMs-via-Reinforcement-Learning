@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ Patient STEMI coder, intubated, evaluation for effusion, edema.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:
+ 
+ ET tube ends at 3.4 cm above the carina.  NG tube is in the stomach.  The lung
+ volumes are low.  Left lower lobe collapse has improved since ___.  There
+ is only minimal bibasilar opacity, mostly compatible with atelectasis.  No
+ pleural effusion or pneumothorax.
+ 
+ CONCLUSION:
+ 
+ 1.  Tube and lines are in adequate position.
+ 
+ 2.  Minimal bibasilar opacity is mostly compatible with atelectasis
+ considering the low lung volumes.

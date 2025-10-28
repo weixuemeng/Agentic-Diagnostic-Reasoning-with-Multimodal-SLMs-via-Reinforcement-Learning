@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Productive cough, evaluation for abnormalities.
+ 
+ COMPARISON:  No comparison available at the time of dictation.
+ 
+ FINDINGS:  The lung volumes are normal.  There are no pleural effusions. 
+ There is mild enlargement of the left hilus and a double contour, potentially
+ explained by an atelectatic lung region.  In addition, a linear structure is
+ seen projecting over the aortopulmonary window.  Overall, there is sufficient
+ evidence to recommend CT, in order to clarify the findings in the region of
+ the left hilus. 
+ 
+ The size of the cardiac silhouette is normal.  No pleural effusions. 
+ Otherwise normal lung parenchyma.  No pneumothorax.
+ 
+ A note was added to the radiology dashboard for communication of important
+ results.

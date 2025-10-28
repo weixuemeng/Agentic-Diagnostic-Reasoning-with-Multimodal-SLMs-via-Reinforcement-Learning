@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  PET-CT from ___.
+ 
+ CLINICAL HISTORY:  Altered mental status, weakness, question pneumonia.
+ 
+ FINDINGS:  AP and lateral views of the chest were provided.  Lungs are clear
+ bilaterally.  Cardiomediastinal silhouette is normal.  No bony abnormalities.
+ 
+ IMPRESSION:  No acute findings in the chest.

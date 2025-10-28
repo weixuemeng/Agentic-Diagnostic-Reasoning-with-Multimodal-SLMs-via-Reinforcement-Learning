@@ -1,0 +1,16 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  ___.
+ 
+ CLINICAL HISTORY:  Chest pain since yesterday.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  Lung volumes are
+ low.  The cardiomediastinal silhouette is stable.  A vague opacity to the left
+ of the left heart border in the left lower lung could represent atelectasis,
+ though technique is suboptimal.  The right lung is clear.  No bony
+ abnormalities are seen.
+ 
+ IMPRESSION:  Vague opacity in the left lateral lung base could be artifactual
+ or due to atelectasis.  Consider repeat with more optimized inspiratory effort
+ to resolve this finding.

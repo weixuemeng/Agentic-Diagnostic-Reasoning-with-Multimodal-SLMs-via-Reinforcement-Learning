@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior exam from ___.
+ 
+ CLINICAL HISTORY:  ___-year-old female with history of congestive heart failure
+ and reported shortness of breath, assess for fluid overload or pneumonia.
+ 
+ FINDINGS:  AP and lateral views of the chest were performed with the patient
+ positioned upright.  There is a mild pulmonary edema with stable cardiomegaly.
+ Left basal opacity could reflect atelectasis, likely with small effusion. 
+ There is no pneumothorax.  Mediastinal contour appears stable.  The bony
+ structures appear unchanged with a compression deformity at the thoracolumbar
+ junction seen on lateral view, unchanged.  
+ 
+ IMPRESSION:  Mild edema with left basal opacity, likely a combination of
+ atelectasis and effusion.  Mild edema unchanged.

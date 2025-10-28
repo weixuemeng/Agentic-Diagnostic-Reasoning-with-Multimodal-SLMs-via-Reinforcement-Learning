@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ INDICATION:  ___-year-old female with hypoxia and concern for consolidation or
+ volume overload.
+ 
+ COMPARISON:  Comparison is made with chest radiographs from ___.
+ 
+ FINDINGS:  Opacity at the right lung base has improved since prior exam. 
+ There is a new left lower lobe opacity in the retrocardiac area which is
+ concerning for pneumonia or aspiration.  There are small bilateral pleural
+ effusions.  Cardiomediastinal silhouette appears unchanged in size.
+ 
+ IMPRESSION:  New left lower lobe opacity concerning for pneumonia or
+ aspiration pneumonia.  Improving right basal opacity.  Bilateral pleural
+ effusions.  
+ 
+ These findings were communicated via the radiology critical results dashboard
+ at 12:57 p.m.

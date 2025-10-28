@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ INDICATION:  ___-year-old female with upper GI bleed, now requiring assessment
+ for acute intrapulmonary process.
+ 
+ COMPARISON:  Comparison is made with chest radiographs from ___.
+ 
+ FINDINGS:  There is slight diffuse hazy opacification of the lungs along with
+ mild prominence of the pulmonary vasculature and cardiomegaly.  These findings
+ suggest mild pulmonary edema secondary to cardiac decompensation.  The lungs
+ are hyperinflated.  There is no pleural effusion.  An 8mm right upper lobe
+ opacity could be a lung nodue.  Recommend followup imaging with CT. 
+ Cardiomediastinal silhouette is unchanged.
+ 
+ IMPRESSION:  Mild pulmonary edema secondary to cardiac decompensation. 
+ Possible right upper lobe lung nodule.  Recommend followup CT imaging rule out
+ pulmonary nodule.
+ 
+ These findings were communicated via the radiology critical results dashboard
+ at 12:48 p.m. on ___.

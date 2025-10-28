@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ INDICATION:  ?pneumonia, ?Dobhoff placement
+ ___ year old woman with AMS with aspiration and dobhoff placement  //
+ ?pneumonia, ?Dobhoff placement
+ 
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ TECHNIQUE:  Portable Chest radiograph, single frontal view
+ 
+ COMPARISON:  Chest radiograph ___ 15:51
+ 
+ FINDINGS: 
+ 
+ Dobbhoff terminates in the stomach. Prominent pulmonary vessels and cardio
+ mediastinal silhouette is unchanged since 1 hr prior.

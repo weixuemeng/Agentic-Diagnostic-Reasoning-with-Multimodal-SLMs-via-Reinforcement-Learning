@@ -1,0 +1,21 @@
+                                 FINAL REPORT
+ EXAMINATION:  Chest radiograph
+ 
+ INDICATION:  History: ___M with PMH DM, HLD, CAD who presented with chest pain 
+ // please eval for consolidation or edema
+ 
+ TECHNIQUE:  Portable chest radiograph
+ 
+ COMPARISON:  Chest radiograph ___
+ 
+ FINDINGS: 
+ 
+ Lung volumes are low.  There are bibasilar opacities which are non-specific,
+ but compatible with atelectasis.  Allowing for this, no focal consolidation,
+ pleural effusion or pneumothorax detected.  Cardiomediastinal silhouette is
+ within normal limits.  No acute osseous abnormalities identified.
+ 
+ IMPRESSION: 
+ 
+ Low lung volumes.  Probable bibasilar atelectasis.  No CHF, effusion, or frank
+ consolidation detected.

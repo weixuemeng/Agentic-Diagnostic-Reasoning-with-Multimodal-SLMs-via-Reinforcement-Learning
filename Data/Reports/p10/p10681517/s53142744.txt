@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ PATIENT HISTORY:  ___-year-old woman with leukocytosis, low-grade fever, cough.
+ Please evaluate for pneumonia.
+ 
+ COMPARISON:  Exam is compared to chest x-ray of ___.
+ 
+ FINDINGS:  AP portable single view chest x-ray shows reduced lung volume with
+ increased opacification due to bilateral pulmonary edema.  New left base
+ pleural effusion is small.  Heart size is unchanged.  There is no
+ pneumothorax.
+ 
+ IMPRESSION:  New mild-to-moderate pulmonary edema and new small left pleural
+ effusion.

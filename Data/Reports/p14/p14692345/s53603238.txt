@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION:  Patient has had a left-sided chest tube inserted.
+ 
+ REPORT:  There is near 100% expansion of the left lung.  A tiny apical
+ pneumothorax persists.  There is left mid zone high-attenuation material,
+ which may conceivably represent contusion or hemorrhage, but may also be
+ artifactual.  The mediastinal structures are returned to ___.  No
+ additional findings of note.
+ 
+ CONCLUSION:
+ 
+ Successful reexpansion status post chest tube insertion.

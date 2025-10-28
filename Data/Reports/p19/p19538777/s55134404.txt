@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ HISTORY:  Evaluate for acute cardiopulmonary process.
+ 
+ TECHNIQUE:  AP and lateral chest radiographs were provided.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:
+ 
+ Lung volumes are low.  There are streaky opacities in the right mid lung and
+ left base, which likely represent atelectasis.  There is no focal
+ consolidation, pleural effusion or pneumothorax.  The cardiomediastinal
+ silhouette is unchanged.
+ 
+ IMPRESSION:
+ 
+ Bibasilar atelectasis and low lung volumes.  Otherwise no acute process.

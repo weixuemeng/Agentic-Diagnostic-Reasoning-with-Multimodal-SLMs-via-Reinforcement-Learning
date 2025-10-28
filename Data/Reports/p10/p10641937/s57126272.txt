@@ -1,0 +1,16 @@
+                                 FINAL REPORT
+ STUDY:  Portable AP chest x-ray.
+ 
+ COMPARISON EXAM:  Portable AP chest x-ray ___.
+ 
+ INDICATION:  ___-year-old with acute pulmonary distress.  Assess interval
+ change.
+ 
+ FINDINGS:  Scattered radiation related to patient's size obscures the image;
+ however, the cardiomediastinal and hilar contours remain stable.  There
+ appears to be increased haziness at the right base obscuring the right
+ hemidiaphragm.  There is no pneumothorax.
+ 
+ IMPRESSION:
+ Increased haziness at the right base which may be related to patient position
+ or may be atelectasis with pleural effusion.

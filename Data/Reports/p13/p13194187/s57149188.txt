@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  ___-year-old man with history of coronary artery disease,
+ congestive heart failure and atrial fibrillation, presents with intermittent
+ chest discomfort.
+ 
+ FINDINGS:  PA and lateral views of the chest are provided.  The heart is
+ moderately enlarged.  There is mild pulmonary edema.  Small right pleural
+ effusion is present.  No pneumothorax.  Bony structures are intact.  No free
+ air is seen below the right hemidiaphragm.
+ 
+ IMPRESSION:  Pulmonary edema, small right effusion and cardiomegaly.

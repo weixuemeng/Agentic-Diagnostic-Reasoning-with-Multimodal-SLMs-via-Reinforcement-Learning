@@ -1,0 +1,24 @@
+ WET READ: ___ ___ ___ 6:21 AM
+  INDICATION:  ___-year-old male with myocardial infarct, fevers and right lower
+  lobe crackles.  Evaluate for pneumonia.
+  
+  COMPARISON:  ___.
+  
+  CHEST, PA AND LATERAL:  Small bilateral pleural effusions are unchanged.  Mild
+  cardiomegaly is present, with a tortuous and calcified aorta.  Lungs are
+  clear.  Mild multilevel degenerative changes in the thoracic spine.
+  
+  IMPRESSION:  Stable small effusions.  Mild cardiomegaly.
+ WET READ VERSION #1 
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  ___-year-old male with myocardial infarct, fevers and right lower
+ lobe crackles.  Evaluate for pneumonia.
+ 
+ COMPARISON:  ___.
+ 
+ CHEST, PA AND LATERAL:  Small bilateral pleural effusions are unchanged.  Mild
+ cardiomegaly is present, with a tortuous and calcified aorta.  Lungs are
+ clear.  Mild multilevel degenerative changes in the thoracic spine.
+ 
+ IMPRESSION:  Stable small effusions.  Mild cardiomegaly.

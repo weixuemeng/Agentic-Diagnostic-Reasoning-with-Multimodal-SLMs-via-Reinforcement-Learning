@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient is intubated, evaluation for change.
+ 
+ COMPARISON:  Chest x-ray and CT scan of ___.
+ 
+ FINDINGS:
+ 
+ The lungs are clear.  The endotracheal tube is in adequate position at 3.9 cm
+ above the carina.  There is no visible pneumothorax and no pleural effusion. 
+ The mediastinal and cardiac contour are within normal limits.
+ 
+ CONCLUSION:
+ 
+ The endotracheal tube is in adequate position.  The rest of the exam is within
+ normal limits.

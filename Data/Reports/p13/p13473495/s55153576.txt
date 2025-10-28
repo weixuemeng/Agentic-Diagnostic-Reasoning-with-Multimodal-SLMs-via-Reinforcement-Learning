@@ -1,0 +1,9 @@
+                                 FINAL REPORT
+ INDICATION:  Chest pain.  Evaluate for acute process.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  There is mild-to-moderate interstitial pulmonary edema.  The heart
+ is moderately enlarged but not significantly changed in size compared to ___.  No definite pleural effusions are seen.  There is no pneumothorax.
+ 
+ IMPRESSION:  Mild-to-moderate pulmonary edema, likely cardiogenic.

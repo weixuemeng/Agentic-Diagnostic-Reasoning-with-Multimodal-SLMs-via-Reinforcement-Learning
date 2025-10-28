@@ -1,0 +1,16 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient intubated, please evaluate for change.
+ 
+ Exam compared to the chest x-ray of ___ and to the CT scan of ___.
+ 
+ FINDINGS:
+ 
+ Since the previous exam, the patient has been extubated and the NG tube has
+ been removed.  There is residual very mild bilateral perihilar band of
+ atelectasis.  There is no pneumothorax and no pleural effusion.  The
+ mediastinal and cardiac contour are normal and unchanged.
+ 
+ CONCLUSION:  The patient has been extubated and nasogastric tube has been
+ removed.  There are no other significant change.

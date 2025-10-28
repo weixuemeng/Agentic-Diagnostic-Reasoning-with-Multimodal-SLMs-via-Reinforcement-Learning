@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ PORTABLE  AP CHEST X-RAY
+ 
+ INDICATION:  Patient with hernia repair, NG placement.
+ 
+ COMPARISON:  No chest x-ray.  Abdominal CT of ___.
+ 
+ FINDINGS:
+ 
+ The lungs are clear, but the lung volumes are very low, making the heart looks
+ bigger.  There is no pneumothorax or pleural effusion.  NG tube ends in lower
+ esophagus and has not passed the gastric band.
+ 
+ CONCLUSION:
+ 
+ NG tube is not in adequate position, ending in the lower esophagus and has not
+ passed the gastric band.

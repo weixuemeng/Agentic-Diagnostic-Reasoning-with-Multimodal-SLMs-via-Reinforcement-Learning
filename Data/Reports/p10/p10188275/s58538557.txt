@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___ 
+ 
+ COMPARISON:  Prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Short of breath, cough, hemoptysis, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  There is a small
+ right pleural effusion again noted.  Scattered areas of plate-like atelectasis
+ are noted.  Lung volumes are low.  A chronic right fifth rib resection is
+ again seen.  Cardiomediastinal silhouette is stable.  No acute bony
+ abnormalities are detected.
+ 
+ IMPRESSION:  Scattered subsegmental atelectasis, small right pleural effusion.
+ Please refer to subsequent CTA chest for further details.

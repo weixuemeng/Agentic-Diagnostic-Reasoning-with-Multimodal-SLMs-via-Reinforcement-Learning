@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH 
+ 
+ HISTORY:  Chest pain.
+ 
+ COMPARISONS:  Recent prior radiographs from earlier on the same day performed
+ at ___ as scanned into the ___ PACS.
+ 
+ TECHNIQUE:  Chest, AP upright portable.
+ 
+ FINDINGS:  The heart is mildly enlarged with a left ventricular configuration.
+ The mediastinal and hilar contours appear within normal limits without change.
+ Streaky left basilar opacity suggests minor atelectasis or scarring, but
+ otherwise, the lung fields appear clear.  There is no definite pleural
+ effusion or pneumothorax.
+ An old healed right posterior ninth rib fracture appears unchanged.  
+ 
+ IMPRESSION:  No evidence of acute cardiopulmonary disease.

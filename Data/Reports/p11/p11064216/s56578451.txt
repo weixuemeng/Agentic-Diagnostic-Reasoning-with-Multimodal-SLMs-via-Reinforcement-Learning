@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Cough, please evaluate for pneumonia.
+ 
+ COMPARISON:  Comparison is made to chest radiograph performed ___.
+ 
+ FINDINGS:  Chest PA and lateral radiograph demonstrates a tortuous aorta. 
+ Otherwise, cardiomediastinal and hilar contours are unremarkable.  Lungs are
+ clear.  No pleural effusion or pneumothorax.
+ 
+ IMPRESSION:  No acute cardiopulmonary process.

@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior radiograph from ___.
+ 
+ CLINICAL HISTORY:  Cough and fever.  Assess for pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were obtained.  Vague opacity in
+ the left lower lung and right upper lobe are concerning for pneumonia.  Please
+ refer to subsequent CT for further evaluation.  Otherwise the lungs appear
+ clear.  Heart and mediastinal contour appear normal.  Bony structures are
+ intact.
+ 
+ IMPRESSION:  Multifocal pneumonia better assessed on the subsequent CTA of the
+ chest.

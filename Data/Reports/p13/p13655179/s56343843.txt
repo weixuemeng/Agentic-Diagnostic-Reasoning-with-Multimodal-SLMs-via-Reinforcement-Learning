@@ -1,0 +1,24 @@
+                                 FINAL REPORT
+ PA AND LATERAL CHEST X-RAY.
+ 
+ INDICATION:  Patient with asthma, new respiratory infection, subjective fever.
+ Evaluate for pneumonia.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:
+ 
+ On the frontal view, the lungs are clear; however, on the lateral view, there
+ are subtle linear opacities overlying the heart which were not present on the
+ previous exam.  This could only represent a rib, but beginning of pneumonia
+ cannot be excluded.  There is no pneumothorax or pleural effusion.  Cardiac
+ contour is normal.
+ 
+ CONCLUSION:
+ 
+ Subtle linear opacities overlying the heart seen only on the lateral view
+ could be an artifact from the rib, however, infection cannot be excluded in
+ appropriate clinical settings.  
+ 
+ The results were posted to the radiology dashboard for direct notification of
+ the referring physician.

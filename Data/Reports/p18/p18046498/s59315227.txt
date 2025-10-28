@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Query pneumonia versus congestive heart failure.
+ 
+ TECHNIQUE:  Portable upright chest view was read in comparison with most
+ recent radiograph from ___.
+ 
+ FINDINGS:
+ Mild pulmonary edema and bibasilar atelectasis, left side more than right and
+ small bilateral pleural effusions are unchanged over past 24 hours. 
+ Mediastinal congestion is also similar.
+ 
+ IMPRESSION:  Mild pulmonary edema, bibasal atelectasis and small pleural
+ effusions are unchanged over last 24 hours.

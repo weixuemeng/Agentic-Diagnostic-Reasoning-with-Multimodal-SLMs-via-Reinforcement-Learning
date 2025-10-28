@@ -1,0 +1,23 @@
+                                 FINAL REPORT
+ PA AND LATERAL CHEST X-RAY
+ 
+ INDICATION:  Patient with possible hemoptysis.  Evaluation for pneumonia or
+ other pathology.
+ 
+ COMPARISON:  None.
+ 
+ FINDINGS:
+ 
+ 8 mm right middle lung nodule has to be investigated by CT scan.  It is not
+ clearly seen on the lateral view and could be a bone lesion.
+ The remaining of the lungs is unremarkable.  Mediastinal and cardiac contours
+ are normal.  There is no pleural effusion or pneumothorax.  Patient has a
+ moderate pectus excavatum.
+ 
+ CONCLUSION:
+ 
+ 8 mm right middle lung nodule has to be investigated by a CT scan.  It is
+ unknown if it is a real lung lesion or a bone lesion.
+ 
+ The results have been posted to the radiology dashboard for direct
+ notification of the referring physician.

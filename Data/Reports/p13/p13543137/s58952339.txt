@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Chest CT from ___.
+ 
+ CLINICAL HISTORY:  AFib, chest pain, question pneumonia.
+ 
+ FINDINGS:  Portable AP upright chest radiograph was obtained.  The lungs are
+ clear without focal consolidation, effusion, or pneumothorax. 
+ Cardiomediastinal silhouette is normal.  Bony structures are intact.
+ 
+ IMPRESSION:  No acute intrathoracic process.

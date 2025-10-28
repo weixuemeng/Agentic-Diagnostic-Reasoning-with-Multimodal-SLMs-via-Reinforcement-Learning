@@ -1,0 +1,40 @@
+                                 FINAL REPORT
+ EXAMINATION:  Chest radiograph
+ 
+ INDICATION:  ___-year-old man presenting with 1 hour of chest pain.  Evaluate
+ for consolidation.
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph, portable AP dated ___.
+ 
+ FINDINGS: 
+ 
+ Lung volumes are low.  Linear infrahilar streaky opacities are most consistent
+ with atelectasis, although aspiration is possible.  No focal consolidation,
+ edema, effusion, or pneumothorax.  Rounded opacities projecting over the left
+ lateral hemithorax on the frontal view could potentially reflect pulmonary
+ nodules.
+ 
+ The heart is mildly enlarged.  Median sternotomy wires and mediastinal clips
+ appear intact.
+ 
+ The osseous structures appear dense, consistent with history of metastatic
+ prostate cancer. Multi-level degenerative changes in the thoracic spine are
+ mild.  No acute osseous abnormality.
+ 
+ IMPRESSION: 
+ 
+ 1.  Low lung volumes and atelectasis.
+ 
+ 2.  Possible aspiration.
+ 
+ 3.  Mild cardiomegaly without evidence of edema.
+ 
+ 4.  Dense bones, consistent with history of metastatic prostate cancer.
+ 
+ 5.  Possible left pulmonary nodules.  Recommend correlation with prior imaging
+ not currently available on PACS.
+ 
+ RECOMMENDATION(S):  Recommend correlation with prior imaging not currently
+ available on PACS to evaluate left pulmonary nodules.

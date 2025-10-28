@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Stage IV colon cancer, malaise, questionable pneumonia.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, the pre-existing left
+ pleural effusion has completely resolved.  However, multiple metastatic
+ lesions have newly appeared in the thorax.  The largest of these lesions is
+ located in the left lower lobe and measures 3 cm in diameter.  The lesions are
+ visible in all parts of the lung.
+ 
+ A note was added to the radiology dashboard.

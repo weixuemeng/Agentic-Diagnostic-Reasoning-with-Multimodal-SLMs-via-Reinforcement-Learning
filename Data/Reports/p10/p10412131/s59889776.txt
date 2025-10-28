@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluation of patient with chest pain.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  The lungs appear mildly hyperinflated consistent with patient's
+ underlying history of chronic obstructive pulmonary disease.  However, there
+ is no evidence of a focal consolidation, effusion, or pneumothorax. 
+ Cardiomediastinal silhouette is normal.  The osseous structures are normal.
+ 
+ IMPRESSION:  No acute cardiopulmonary process.

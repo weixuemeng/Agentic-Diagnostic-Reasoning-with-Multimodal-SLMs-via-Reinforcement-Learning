@@ -1,0 +1,25 @@
+                                 FINAL REPORT
+ INDICATION:  Status post fall, here to evaluate for acute injury.
+ 
+ COMPARISON:  Report of chest radiograph performed on ___.  No
+ prior images are available for comparison due to inability of PACS to fetch
+ images from archive.
+ 
+ TECHNIQUE:  PA and lateral radiographs of the chest.
+ 
+ FINDINGS:  The inspiratory lung volumes are significantly decreased, which
+ accentuates the appearance of the cardiomediastinal silhouette.  The right
+ hemidiaphragm is well visualized, and the right costophrenic angle is clear. 
+ The left hemidiaphragm is obscured, which likely reflects a combination of
+ pleural fluid and associated atelectasis.  No pneumothorax is detected.  The
+ cardiomediastinal silhouette is prominent, related in part to lung
+ under-inflation.  Scant calcification of the aortic knob is noted.  The
+ trachea is deviated to the right by the aortic knob.  No displaced rib
+ fractures are detected; however, evaluation is limited due to
+ underpenetration.
+ 
+ IMPRESSION:
+ 1.  Small left pleural effusion and associated atelectasis in the setting of
+ low lung volumes.
+ 2.  No displaced rib fractures; however, a dedicated rib series should be
+ obtained if there is clinical concern.

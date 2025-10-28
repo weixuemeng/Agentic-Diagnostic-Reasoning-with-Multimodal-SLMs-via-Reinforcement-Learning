@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Chest CTA from ___.
+ 
+ CLINICAL HISTORY:  Chest pain.
+ 
+ FINDINGS:  PA and lateral views of the chest are provided.  Lung volumes are
+ low with minimal bibasilar atelectasis noted.  There is no effusion or
+ pneumothorax seen.  Cardiomediastinal silhouette appears normal.  The imaged
+ osseous structures appear grossly intact.
+ 
+ IMPRESSION:  Minimal right basal atelectasis.  Otherwise normal.

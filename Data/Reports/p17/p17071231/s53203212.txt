@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Cirrhosis, leukocytosis, evaluation for pathology.
+ 
+ COMPARISON:  Portable radiograph from ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, the current image is
+ acquired with the patient in rotated position.  However, no relevant change is
+ seen.  No pneumonia, no pleural effusions.  No pulmonary edema.  Normal size
+ of the cardiac silhouette.

@@ -1,0 +1,24 @@
+                                 FINAL REPORT
+ EXAMINATION:  Chest radiograph PA and lateral
+ 
+ INDICATION:  ___ year old man with Dm, HTN, ESRD, and alagille syndrome  //
+ Please assess for any cardiopulmonary abnormalilties.
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph ___.
+ 
+ FINDINGS: 
+ 
+ The left internal jugular approach dialysis catheter terminates in the right
+ atrium. The lungs are clear bilaterally, without focal consolidation, pleural
+ effusions or pneumothorax.  The mediastinum, hila and heart are within normal
+ limits.  No acute osseous abnormalities.
+ 
+ IMPRESSION: 
+ 
+ 1. No acute cardiopulmonary radiographic abnormality.
+ 2.  Tip of dialysis catheter is within the right atrium.
+ 
+ NOTIFICATION:  Findings were entered into the Critical Results dashboard on
+ ___ at 10:14am.

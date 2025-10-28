@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ EXAMINATION:  Chest radiograph
+ 
+ INDICATION:  Eval BIV ICD lead position  // Eval BIV ICD lead position
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Prior chest radiographs from ___, ___, ___
+ 
+ FINDINGS: 
+ 
+ The lungs are clear.  A left pectoral pacemaker is seen with transvenous leads
+ in the right atrium, right ventricle, and left coronary vein.  The heart size
+ is unchanged. No pneumothorax.
+ 
+ IMPRESSION: 
+ 
+ Left pectoral pacemaker seen with transvenous leads in the RA, RV, and left
+ coronary vein.

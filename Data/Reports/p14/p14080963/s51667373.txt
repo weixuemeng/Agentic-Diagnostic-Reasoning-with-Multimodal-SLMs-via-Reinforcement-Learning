@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ Comparison with a prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Chest pain, assess for acute intrathoracic process.
+ 
+ FINDINGS:  AP upright and lateral views of the chest were provided.  Lungs are
+ clear bilaterally without focal consolidation, effusion, or pneumothorax. 
+ Heart size is mildly enlarged.  The mediastinal contour is somewhat prominent,
+ likely reflecting ectatic vasculature.  Bony structures are intact.  No
+ definite signs of congestive heart failure.
+ 
+ IMPRESSION:  Top normal heart size without definite signs of pneumonia or CHF.
+ Please refer to subsequent CT of the chest for further details.

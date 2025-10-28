@@ -1,0 +1,18 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient with MVP, MVR, pulmonary edema due to heart failure,
+ improvement of pulmonary edema?
+ 
+ COMPARISON:  Chest x-rays from ___ to ___.
+ 
+ FINDINGS:
+ 
+ Moderate pulmonary edema has significantly improved and is now minimal. 
+ Moderate cardiac enlargement is stable since yesterday, but increased since
+ ___ in this patient with prior sternotomy for mitral valve repair.  Pleural
+ effusions are small if any.  There is no pneumothorax.
+ 
+ CONCLUSION:
+ 
+ Significant improvement of pulmonary edema that is now minimal.

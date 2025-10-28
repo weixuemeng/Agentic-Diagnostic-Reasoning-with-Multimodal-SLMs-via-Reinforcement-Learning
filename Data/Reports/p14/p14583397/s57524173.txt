@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Fever.  Evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph on ___.
+ 
+ FINDINGS: AP view of the chest. There is no focal consolidation, pleural
+ effusion or pneumothorax.  The cardiomediastinal and hilar contours are
+ normal.  There are low lung volumes.
+ 
+ IMPRESSION:  Low lung volumes but no evidence of pneumonia.

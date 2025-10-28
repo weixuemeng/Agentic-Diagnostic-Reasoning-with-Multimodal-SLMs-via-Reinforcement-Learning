@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior chest radiograph from ___.
+ 
+ CLINICAL HISTORY:  Cough with sputum production, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  Lung volumes are
+ low with mild plate-like lower lung atelectasis.  No definite consolidation,
+ effusion or pneumothorax is seen.  The cardiomediastinal silhouette is normal.
+ Bony structures are intact.  No free air below the right hemidiaphragm.
+ 
+ IMPRESSION:  No pneumonia or CHF.

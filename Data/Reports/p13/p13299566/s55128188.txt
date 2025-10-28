@@ -1,0 +1,31 @@
+                                 FINAL REPORT
+ EXAMINATION:  Chest Radiograph
+ 
+ INDICATION:  ___ year old woman with R facial and neck swelling along with
+ chest pain x ___ mo. H/o breast Ca in the past.  // Any concerning findings to
+ explain ___?
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph ___.
+ 
+ FINDINGS: 
+ 
+ Since the last radiograph, there has been interval removal of the left port.
+ There is slight non-specific parenchymal opacity in the left upper lobe where
+ the port was previously placed, which may represent scarring or other process.
+ Additionally, the right lung base opacity is slightly more dense compared to
+ ___.  There are no pleural effusions or pneumothorax. The heart is
+ slightly enlarged.  The mediastinum and hilar within normal limits. Multiple
+ clips are noted along the left lateral chest wall. No acute osseous
+ abnormalities.
+ 
+ IMPRESSION: 
+ 
+ 1. New parenchymal density in the left upper lobe.  This may represent
+ scarring or other process and should be evaluated with CT.
+ 2.  Right basilar opacity is more prominent compared to prior CXR and should
+ also be evaluated by CT, as above.
+ 
+ NOTIFICATION:  Findings were entered into the critical results dashboard by
+ Dr. ___ on ___ at 11:30AM.

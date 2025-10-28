@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ PATIENT HISTORY:  ___-year-old woman with COPD, failure to extubate, hypoxia,
+ requiring intubation, cause of hypoxia.
+ 
+ COMPARISON:  Exam is compared to chest x-ray of ___.
+ 
+ FINDINGS:  AP single view of the chest shows reduced lung volume with new
+ right base opacity suspicious for pneumonia.  The left base opacification is
+ likely due to atelectasis.  Prominent hila are due to vascular congestion. 
+ There is no pleural effusion or pneumothorax.  Heart size is unchanged.
+ 
+ IMPRESSION:  Right base opacity compatible with pneumonia.  Left base
+ atelectasis and mild vascular congestion.

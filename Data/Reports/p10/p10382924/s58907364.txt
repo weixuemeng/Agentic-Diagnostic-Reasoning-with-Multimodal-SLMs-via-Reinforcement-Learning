@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Fever, evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  PA and lateral views of the chest.  Low lung volumes.  The cardiac,
+ mediastinal, and hilar contours are normal.  The lungs are clear.  There is no
+ evidence of pneumonia.  The pleural surfaces are normal.  No pneumothorax.
+ 
+ IMPRESSION:  No evidence of pneumonia.

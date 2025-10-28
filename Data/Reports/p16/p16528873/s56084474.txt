@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ STUDY:  Portable AP chest radiograph.
+ 
+ COMPARISON EXAM:  Portable AP chest radiograph, ___.
+ 
+ INDICATION:  ___-year-old with new fevers, on chemo recently.
+ 
+ FINDINGS:  There is new opacification at the right lung base.  The remainder
+ of the lungs are clear.  Heart size is normal.  Mediastinal and hilar contours
+ are stable, but slightly shifted to the left, likely due to patient position. 
+ A left Port-A-Cath is present with tip terminating in the region of the
+ cavoatrial junction.
+ 
+ IMPRESSION:  New right base opacification which in the correct clinical
+ setting is compatible with pneumonia.

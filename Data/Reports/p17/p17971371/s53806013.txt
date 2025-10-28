@@ -1,0 +1,10 @@
+                                 FINAL REPORT
+ INDICATION:  Chest pain.  Evaluate for cardiomegaly.
+ 
+ COMPARISON:  Chest radiographs from ___.
+ 
+ FINDINGS:  PA and lateral radiographs were acquired.  The lungs are clear. 
+ Heart size is normal.  The mediastinal contours are normal.  There are no
+ pleural effusions.  No pneumothorax.
+ 
+ IMPRESSION:  No acute cardiac or pulmonary process.

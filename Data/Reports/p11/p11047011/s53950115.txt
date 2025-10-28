@@ -1,0 +1,20 @@
+                                 FINAL REPORT
+ INDICATION:  Cough. Evaluate for pneumonia.
+ 
+ TECHNIQUE:  PA and lateral views of the chest.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS: 
+ 
+ The lungs are hyperinflated.  A linear opacity with some associated volume
+ loss in the right upper lobe is unchanged from the prior radiograph. This
+ likely scarring.  No new opacity is identified to suggest pneumonia.  There is
+ no pulmonary edema, pleural effusion, or pneumothorax. The cardiomediastinal
+ silhouette is normal.
+ 
+ IMPRESSION: 
+ 
+ Hyperexpanded lungs. No evidence of pneumonia. A linear opacity in the right
+ upper lobe is likely scarring, though could be further assessed with a CT if
+ clinically indicated.

@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior exam from ___.
+ 
+ CLINICAL HISTORY:  Dementia and altered speech, question pneumonia.
+ 
+ FINDINGS:  Frontal and lateral views of the chest were provided.  Lung volumes
+ are low.  Basilar atelectasis is noted with no convincing signs of pneumonia. 
+ No large effusions or pneumothorax.  The heart size cannot be assessed due to
+ low lung volumes.  Mediastinal contour is normal.  Bony structures are intact.
+ 
+ IMPRESSION:  Low lung volumes, no convincing signs of pneumonia.

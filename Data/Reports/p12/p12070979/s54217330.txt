@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ INDICATION:  ___-year-old female with cough.
+ 
+ No prior examinations for comparison.
+ 
+ CHEST, PA AND LATERAL:  The lungs are hyperexpanded, with diffuse hyperlucency
+ and widening of the retrosternal clear space.  Questionable opacity is seen in
+ the right superior mediastinum, underlying the sternoclavicular junction. 
+ Irregular pleural scarring is noted at the left lung apex.  The
+ cardiomediastinal and hilar contours are normal.  Probable small hiatal hernia
+ is present.  There are no pleural effusions or pneumothorax.
+ 
+ IMPRESSION:
+ 1.  COPD.  
+ 2.  Questionable opacity in the right lung apex.  Recommend repeat PA chest
+ radiograph and apical lordotic view.  This was entered into the critical
+ results dashboard.

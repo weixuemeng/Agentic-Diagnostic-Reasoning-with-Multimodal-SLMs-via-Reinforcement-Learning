@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Chest radiograph and CT from ___.
+ 
+ CLINICAL HISTORY:  Fatigue, headache, question pneumonia.
+ 
+ FINDINGS:  PA and lateral views of the chest are provided.  Lung volumes are
+ somewhat low, with lower lung bronchovascular crowding or atelectasis, mild. 
+ No definite signs of pneumonia or CHF.  No pleural effusion or pneumothorax. 
+ Cardiomediastinal contours are stable.  Bony structures are intact.
+ 
+ IMPRESSION:  No acute findings in the chest.

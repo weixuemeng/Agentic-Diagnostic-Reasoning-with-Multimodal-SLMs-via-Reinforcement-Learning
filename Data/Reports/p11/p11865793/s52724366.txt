@@ -1,0 +1,20 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient with history of abdominal aortic repair, nonoperable
+ thoracic aneurysm, emphysema, admitted for left hip fracture, new hypoxia. 
+ Evaluation for pulmonary edema, infiltrate.
+ 
+ COMPARISON:  Chest x-rays of ___.
+ 
+ FINDINGS:
+ 
+ Patient is known with right-sided aortic arch with an aneurysm of descending
+ aorta.  This is unchanged since ___.  There is no new lung
+ consolidation, no pleural effusion or pneumothorax.  Left fifth rib fracture
+ is healed.
+ 
+ CONCLUSION:
+ 
+ 1. There are no acute cardiopulmonary findings.  
+ 2. Known right aortic arch with aneurysm of descending aorta.

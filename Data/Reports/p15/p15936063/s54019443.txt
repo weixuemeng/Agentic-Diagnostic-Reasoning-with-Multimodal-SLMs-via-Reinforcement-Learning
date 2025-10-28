@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with hydropneuthorax and now chest tube clamped. 
+ // ?chest tube clamped      ?chest tube clamped
+ 
+ COMPARISON:  Prior chest radiographs ___ through ___.
+ 
+ IMPRESSION: 
+ 
+ Fluid has has continued to accumulate in the right pleural space slowly since
+ ___.  The overall volume of the moderate loculated right lower hydro
+ pneumothorax is probably unchanged while the lung right lower lung has not
+ re-expanded.  Right pleural drain is still in place.  Small to moderate left
+ pleural effusion is slightly larger and borderline interstitial edema has
+ changed in distribution but not in overall severity.  Moderate cardiomegaly
+ stable.

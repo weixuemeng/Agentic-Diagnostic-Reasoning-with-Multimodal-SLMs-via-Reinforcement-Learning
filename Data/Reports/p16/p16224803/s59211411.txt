@@ -1,0 +1,13 @@
+                                 FINAL REPORT
+ HISTORY:  Melanoma.  Evaluate disease status.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  Frontal and lateral radiographs of the chest shows a 10mm right
+ apical nodule which is new since the prior study.  The heart and mediastinal
+ contours are normal.  No pleural abnormality is detected.
+ 
+ IMPRESSION: New 10mm right apical lung nodule. Recommend CT of the Chest for
+ further evaluation.
+ 
+ These findings were entered into the Radiology Results Dashboard.

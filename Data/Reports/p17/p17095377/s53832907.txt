@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Interval change, bowel perforation.
+ 
+ COMPARISON:  Chest x-ray of ___.
+ 
+ FINDINGS:
+ 
+ Lung volumes are low with bibasilar atelectasis.  Volume overload accompanied
+ by pleural effusions is mild.  NG tube is in the stomach.  There is no
+ pneumothorax.
+ 
+ CONCLUSION:
+ 
+ 1.  Low lung volumes.
+ 2.  Mild volume overload.

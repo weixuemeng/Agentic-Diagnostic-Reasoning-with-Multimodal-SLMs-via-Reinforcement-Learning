@@ -1,0 +1,11 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluation of patient with abdominal pain.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:  The lungs are clear with no evidence of consolidation, effusion, or
+ pneumothorax.  There is mild cardiomegaly.  No focal consolidation, effusion,
+ or pneumothorax is noted.  Leftward convexity of the mid thoracic spine is
+ noted and may be positional.  No acute fractures are identified.
+ 
+ IMPRESSION: Mild cardiomegaly with no acute cardiopulmonary process.

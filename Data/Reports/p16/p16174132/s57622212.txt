@@ -1,0 +1,23 @@
+                                 FINAL REPORT
+ EXAMINATION:  CHEST RADIOGRAPH.
+ 
+ INDICATION:  History: ___M with ? ICD wire migration seen on portable CXR  //
+ Eval ICD wire
+ 
+ TECHNIQUE:  Frontal and lateral views of the chest.
+ 
+ COMPARISON:  Multiple prior chest radiographs, the most recent prior of ___, two hours prior.
+ 
+ FINDINGS: 
+ 
+ Compared to the prior chest radiograph performed 2 hours prior, the single
+ lead of a left chest wall generator demonstrates mild retraction of the tip
+ with a redundant loop, remaining within the right ventricle, new since ___.
+ 
+ The lungs are clear.  There is no pleural effusion or pneumothorax.  The
+ cardiac and mediastinal contours are normal.
+ 
+ IMPRESSION: 
+ 
+ Redundant pacemaker lead with retraction of the tip, still likely within the
+ right ventricle, new since ___.  Correlate with pacemaker function.

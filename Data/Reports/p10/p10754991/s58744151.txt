@@ -1,0 +1,16 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluate for pneumonia in a patient with chest pain.
+ 
+ COMPARISON:  Chest radiographs from ___, ___, ___.
+ 
+ FINDINGS: 
+ 
+ A portable frontal chest radiograph demonstrates a normal cardiomediastinal
+ silhouette.  There is mild vascular congestion without frank pulmonary edema. 
+ No focal consolidation, pleural effusion, or pneumothorax seen.  The
+ visualized upper abdomen is unremarkable.
+ 
+ IMPRESSION: 
+ 
+ Mild vascular congestion without frank pulmonary edema.  No focal
+ consolidation to suggest bacterial pneumonia.

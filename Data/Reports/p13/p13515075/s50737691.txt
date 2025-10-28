@@ -1,0 +1,12 @@
+                                 FINAL REPORT
+ HISTORY:  Pneumonia.  Assess pneumonia.
+ 
+ COMPARISON:  Chest radiographs from ___ through ___.
+ 
+ FINDINGS:  Frontal and lateral radiographs of the chest demonstrate a midline
+ trachea with resolution of the bibasilar opacities.  Lung volumes remain low,
+ accentuating the cardiac contour.  Small bilateral pleural effusions are seen.
+ No pneumothorax is seen.
+ 
+ IMPRESSION:  Resolution of bibasilar opacities. Small bilateral pleural
+ effusions.

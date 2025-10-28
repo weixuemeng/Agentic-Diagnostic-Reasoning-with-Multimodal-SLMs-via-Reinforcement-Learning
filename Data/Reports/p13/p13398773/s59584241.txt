@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Prior CTA chest from ___.
+ 
+ CLINICAL HISTORY:  Chest pain, recent PE.
+ 
+ FINDINGS:  PA and lateral views of the chest are provided.  The lung volumes
+ are low with bronchovascular crowding and atelectasis noted in the lower
+ lungs.  The cardiomediastinal silhouette is stable.  No convincing signs of
+ pneumonia, effusion or pneumothorax.  Bony structures appear intact.
+ 
+ IMPRESSION:  Limited, negative.  Please refer to subsequent CTA chest for
+ further details.

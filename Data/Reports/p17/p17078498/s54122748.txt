@@ -1,0 +1,17 @@
+                                 FINAL REPORT
+ PORTABLE AP CHEST X-RAY
+ 
+ INDICATION:  Patient with shortness of breath, rule out fluid overload.
+ 
+ COMPARISON:  CT of ___.  Chest x-ray of ___.
+ 
+ FINDINGS:
+ 
+ Right-sided PICC line has been repositioned and ends in mid SVC.  There is
+ mild cardiac congestion.  Mild-to-moderate cardiomegaly is stable.  There is
+ no pneumothorax or pleural effusion.
+ 
+ CONCLUSION:
+ 
+ 1.  There is mild cardiac congestion.
+ 2.  Mild-to-moderate cardiomegaly is stable.

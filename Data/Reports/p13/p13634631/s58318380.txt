@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___.
+ 
+ COMPARISON:  None.
+ 
+ CLINICAL HISTORY:  Chest pain and dyspnea on exertion.
+ 
+ FINDINGS:  PA and lateral views of the chest were provided.  Lung volumes are
+ low with elevation of the right hemidiaphragm.  No discrete consolidation,
+ signs of effusion or pneumothorax is seen.  The cardiomediastinal silhouette
+ appears normal.  The imaged osseous structures are intact.
+ 
+ IMPRESSION:  No acute findings in the chest.  Please refer to subsequent CTA
+ chest for further detail.

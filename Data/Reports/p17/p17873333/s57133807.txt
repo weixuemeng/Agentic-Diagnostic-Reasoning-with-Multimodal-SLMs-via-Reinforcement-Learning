@@ -1,0 +1,15 @@
+ CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED:
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  ___-year-old man with recent chest x-ray showing bilateral fluid. 
+ 
+ 
+ COMPARISONS:  PA and lateral chest radiograph from ___.
+ 
+ FINDINGS:  There is no focal consolidation, pleural effusion, or pneumothorax.
+ There is no evidence of pulmonary edema.  The heart is mildly enlarged with a
+ left ventricular configuration.  Atelectasis at the right base has improved. 
+ Osseous structures are unremarkable.
+ 
+ IMPRESSION:  Improved atelectasis at the right base and improved pulmonary
+ edema.

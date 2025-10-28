@@ -1,0 +1,9 @@
+ WET READ: ___ ___ ___ 7:08 PM
+  Right PICC now terminates in mid SVC. No other significant change.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY:  PICC line pulled back.
+ 
+ FINDINGS:  In comparison with the earlier study of this date, the right PICC
+ line now terminates in the mid-to-lower portion of the SVC.  Otherwise, little
+ change.

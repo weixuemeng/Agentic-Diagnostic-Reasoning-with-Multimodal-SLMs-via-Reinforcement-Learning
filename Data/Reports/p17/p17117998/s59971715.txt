@@ -1,0 +1,23 @@
+                                 FINAL REPORT
+ HISTORY:  Productive cough.
+ 
+ TECHNIQUE:  Frontal and lateral chest radiographs were obtained.
+ 
+ COMPARISON:  Comparison is made to radiographs dated ___.
+ 
+ FINDINGS:
+ 
+ There is no evidence of focal consolidation, pleural effusion, pneumothorax,
+ or pulmonary edema identified. A left ___-___ opacity is noted, not
+ previously seen. The heart size is normal.  The aorta is tortuous. Mediastinal
+ and hilar contours are stable.
+ 
+ IMPRESSION:
+ 
+ 1. No radiographic evidence for acute cardiopulmonary process.
+ 
+ 2. New left ___-___ opacity. Recommened dedicated chest CT for further
+ evaluation.
+ 
+ Findings were entered into the radiology dashboard by Dr. ___ at 5:18pm on
+ ___, 5 minutes after discovery.

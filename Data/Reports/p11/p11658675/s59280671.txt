@@ -1,0 +1,22 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION:  Patient with pneumonia, query pneumonitis.  For evaluation.
+ 
+ TECHNIQUE:  Portable AP radiograph was obtained.
+ 
+ COMPARISON:  ___.
+ 
+ REPORT:
+ There is significant bibasal infiltrate, much of which is linear suggesting an
+ atelectatic component.  While that in the left lower lung zone has improved
+ somewhat compared to prior study, that on the right is unchanged, though not
+ worsened.
+ 
+ Poor inspiratory effort and low lung volumes.  Allowing for projection, the
+ heart size is normal.  The remainder of the lung parenchyma is grossly clear.
+ 
+ CONCLUSION:
+ Low lung volumes, with bibasal infiltrates.  There is probably a large
+ atelectatic component as an additional finding of note.  Minor interval
+ improvement over prior study.

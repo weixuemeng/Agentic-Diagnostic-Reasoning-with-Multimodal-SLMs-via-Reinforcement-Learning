@@ -1,0 +1,15 @@
+                                 FINAL REPORT
+ STUDY:  Chest radiograph.
+ 
+ INDICATION: ?pneumonia, now hypoxic.  Please evaluate for pulmonary edema.
+ 
+ TECHNIQUE:  Portable AP radiograph was obtained.
+ 
+ COMPARISON:  ___ at 12:37, current radiograph time 15:37.
+ 
+ REPORT:  There is extensive bilateral air space consolidation, more pronounced
+ in the right side.  There are increased lung markings, but this probably
+ reflects chronic COPD changes.  There is no definitive evidence of fluid
+ overload or pulmonary edema.
+ 
+ CONCLUSION:  Bilateral pneumonia.  Background likely COPD.

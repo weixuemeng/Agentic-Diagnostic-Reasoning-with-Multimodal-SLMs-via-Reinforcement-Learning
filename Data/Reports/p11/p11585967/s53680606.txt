@@ -1,0 +1,19 @@
+                                 FINAL REPORT
+ INDICATION:  Evaluate for CHF in a patient with bradycardia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS: 
+ 
+ A portable frontal chest radiograph again demonstrates severe cardiomegaly,
+ likely unchanged compared to ___.  Low lung volumes exaggerate
+ cardiomediastinal size.  There is mild left greater than right basilar
+ atelectasis, as well as mild pulmonary edema.  No focal consolidation, large
+ pleural effusion, or pneumothorax is identified.  The visualized upper abdomen
+ is unremarkable.
+ 
+ IMPRESSION:
+ 
+ 
+ 1. Mild pulmonary edema.
+ 2. Unchanged severe cardiomegaly.

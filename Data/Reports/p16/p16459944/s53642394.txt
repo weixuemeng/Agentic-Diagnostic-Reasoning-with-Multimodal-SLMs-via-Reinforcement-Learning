@@ -1,0 +1,14 @@
+                                 FINAL REPORT
+ CHEST RADIOGRAPH PERFORMED ON ___
+ 
+ COMPARISON:  Chest CT and chest radiographs, both dated ___.
+ 
+ CLINICAL HISTORY:  DOE, assess for cardiomegaly or pleural effusions.
+ 
+ FINDINGS:  AP upright and lateral views of the chest were provided.  Bilateral
+ pleural effusions are again noted without significant change from prior exam. 
+ There is pulmonary vascular congestion with interstitial edema noted.  The
+ heart size appears grossly stable.  No pneumothorax.  Bony structures appear
+ grossly intact.
+ 
+ IMPRESSION:  Mild pulmonary edema with stable bilateral pleural effusions.
