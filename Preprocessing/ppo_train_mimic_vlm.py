@@ -8,7 +8,7 @@ from PIL import Image
 
 MODEL_NAME = "Qwen/Qwen2-VL-2B-Instruct" # base model 
 CSV_PATH = "mimic_impression_subset.csv"
-DATA_ROOT = "../Agentic-Diagnostic-Reasoning-with-Multimodal-SLMs-via-Reinforcement-Learning/Data/Reports" # change this to 
+DATA_ROOT = "/home/user/workspace/Agentic-Diagnostic-Reasoning-with-Multimodal-SLMs-via-Reinforcement-Learning/Data/Reports" # change this to 
 STEPS = 100  # start small for testing
 
 # ---- Dataset ----
