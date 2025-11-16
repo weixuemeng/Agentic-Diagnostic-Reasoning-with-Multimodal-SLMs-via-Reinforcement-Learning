@@ -3,12 +3,12 @@ import torch
 from datasets import Dataset
 from trl import AutoModelForCausalLMWithValueHead, PPOTrainer, PPOConfig
 from transformers import AutoProcessor, AutoTokenizer
-from mimic_dataset_vlm import MIMICImpressionDataset
+from dataset_mimic_vlm import MIMICImpressionDataset
 from PIL import Image
 
 MODEL_NAME = "Qwen/Qwen2-VL-2B-Instruct" # base model 
 CSV_PATH = "mimic_impression_subset.csv"
-DATA_ROOT = "/home/user/workspace/Agentic-Diagnostic-Reasoning-with-Multimodal-SLMs-via-Reinforcement-Learning/Data/Reports" # change this to 
+DATA_ROOT = "mimic_subset" # change this to 
 STEPS = 100  # start small for testing
 
 # ---- Dataset ----
