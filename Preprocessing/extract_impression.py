@@ -19,21 +19,22 @@ def extract_impression(text: str) -> str:
 def main():
     df = pd.read_csv("subset_study_manifest.csv")
     records = []
-    for idx, row in df.iterrows():
+    for _, row in df.iterrows():
         report_path = row['path']
         text = Path("../Data/Reports").joinpath(report_path).read_text()
         impression = extract_impression(text)
         images = ast.literal_eval(row["image_paths"])
-        print("images:", images)
+        images = [s.split(".")[0]+".jpg" for s in images]
+        print("Converted images:", images)
         
         records.append({
             "study_id": row["study_id"],
-            "image_paths": row["image_paths"],
+            "image_paths": images,
             "impression": impression,
             "split": row["split"]
         })
         
-    pd.DataFrame(records).to_csv("mimic_impression_subset.csv", index=False)
+    pd.DataFrame(records).to_csv("mimic_jpg_impression_subset.csv", index=False)
 
 
 if __name__ == "__main__":
