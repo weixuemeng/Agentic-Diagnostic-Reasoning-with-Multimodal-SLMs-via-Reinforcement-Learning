@@ -3,9 +3,88 @@ import torch
 from datasets import Dataset
 from trl import AutoModelForCausalLMWithValueHead, PPOTrainer, PPOConfig
 from transformers import AutoProcessor, AutoTokenizer
-from dataset_mimic_vlm import MIMICImpressionDataset
+from mimic_dataset_vlm import MIMICImpressionDataset
 from PIL import Image
+from extract_label import chexpert_lookup, LABEL_COLS
+import re
 
+# extract labels using CheXpert-style rules
+CHEXPERT_LEXICON = {
+    "Atelectasis": ["atelectasis", "atelectatic", "collapse"],
+    "Cardiomegaly": ["cardiomegaly", "enlarged heart"],
+    "Consolidation": ["consolidation", "airspace disease"],
+    "Edema": ["edema", "pulmonary edema", "interstitial edema"],
+    "Enlarged Cardiomediastinum": ["widened mediastinum"],
+    "Fracture": ["fracture"],
+    "Lung Lesion": ["mass", "nodule", "lesion"],
+    "Lung Opacity": ["opacity", "opacities"],
+    "Pleural Effusion": ["effusion", "fluid"],
+    "Pleural Other": ["pleural thickening"],
+    "Pneumonia": ["pneumonia", "infectious infiltrate"],
+    "Pneumothorax": ["pneumothorax", "collapsed lung"],
+    "Support Devices": ["endotracheal", "line", "catheter"],
+    "No Finding": ["normal", "no acute disease", "clear lungs"]
+}
+
+NEG_PHRASES = ["no", "without", "absent", "negative for"]
+UNCERTAIN_PHRASES = ["possible", "likely", "may represent", "cannot exclude"]
+
+
+def extract_labels_chexpert_style(text):
+    txt = text.lower()
+    result = {k:0 for k in CHEXPERT_LEXICON}
+
+    for label, terms in CHEXPERT_LEXICON.items():
+        for t in terms:
+            # Negation + Uncertainty + Finding
+            pattern = rf"(no|without|absent|negative for)?\s*(possible|likely|may represent|cannot exclude)?\s*({t})"
+
+            for m in re.finditer(pattern, txt):
+                neg, unc, _ = m.groups()
+
+                if neg:
+                    result[label] = 0
+                elif unc:
+                    result[label] = 0.5
+                else:
+                    result[label] = 1
+    return result
+
+# ---- Reward function ----
+
+from sklearn.metrics import f1_score
+
+def clinical_reward(true_dict, pred_dict):
+    t = [true_dict[k] for k in CHEXPERT_LEXICON]
+    p = [pred_dict[k] for k in CHEXPERT_LEXICON]
+    return f1_score(t, p, average="macro", zero_division=0)
+
+def format_reward(text):
+    score = 0
+    t = text.lower()
+    if t.startswith("impression"):
+        score += 0.3
+    if len(text.split(".")) < 3:
+        score -= 0.1
+    if len(text) > 800:
+        score -= 0.2
+    return score
+
+def hallucination_penalty(true_dict, pred_dict):
+    penalty = 0
+    for k in CHEXPERT_LEXICON:
+        if pred_dict[k] == 1 and true_dict[k] == 0:
+            penalty -= 0.3
+    return penalty
+
+def compute_full_reward(gen_text, true_labels):
+    pred_labels = extract_labels_chexpert_style(gen_text)
+    R1 = clinical_reward(true_labels, pred_labels)
+    R2 = format_reward(gen_text)
+    R3 = hallucination_penalty(true_labels, pred_labels)
+    return R1 + R2 + R3
+
+# ---- PPO Training Loop ----
 MODEL_NAME = "Qwen/Qwen2-VL-2B-Instruct" # base model 
 CSV_PATH = "mimic_impression_subset.csv"
 DATA_ROOT = "mimic_subset" # change this to 
@@ -44,32 +123,41 @@ config = PPOConfig(
 trainer = PPOTrainer(config, model, tokenizer, dataset=hf_ds)
 
 # ---- Reward Function ----
-def compute_reward(reference, generated):
-    ref, gen = reference.lower(), generated.lower()
-    overlap = len(set(ref.split()) & set(gen.split())) / max(len(set(ref.split())), 1)
-    format_bonus = 1.0 if gen.strip().startswith("impression") else 0.0
-    return overlap + format_bonus
-
-
+# def compute_reward(reference, generated):
+#     ref, gen = reference.lower(), generated.lower()
+#     overlap = len(set(ref.split()) & set(gen.split())) / max(len(set(ref.split())), 1)
+#     format_bonus = 1.0 if gen.strip().startswith("impression") else 0.0
+#     return overlap + format_bonus
 
 # ---- PPO Loop ----
-for step, batch in enumerate(trainer.dataset):
-    prompt = batch["prompt"] # 8 
-    image = batch["image"]
-    inputs = processor(images=image, text=prompt, return_tensors="pt").to(model.device)
+for step, batch in enumerate(trainer.dataloader):
+    study_ids = batch["study_id"]
 
-    output = model.generate(**inputs, max_new_tokens=128, temperature=0.7)
-    gen_text = tokenizer.decode(output[0], skip_special_tokens=True) # get the generated impression from the base model
+    batch_rewards = []
+    gen_texts = []
 
-    reward = []
-    for ref, gen in zip(batch["reference"], [gen_text]*len(batch["reference"])):
-        reward.append(compute_reward(ref, gen))
+    
+    for i in range(len(study_ids)):
+        sid = study_ids[i]
+        true_labels = chexpert_lookup[int(sid)] # true label
+        
+        img_i   = batch["image"][i]
+        prompt_i = batch["prompt"][i]
+        inputs = processor(images=img_i, text=prompt_i, return_tensors="pt").to(model.device)
+        output = model.generate(**inputs, max_new_tokens=128, temperature=0.7)
 
-    reward = torch.tensor([compute_reward(batch["reference"], gen_text)], device=model.device)
-    trainer.step([gen_text], reward)
+        gen_text = tokenizer.decode(output[0], skip_special_tokens=True)
+        gen_texts.append(gen_text)
 
+        reward = compute_full_reward(gen_text, true_labels)
+        batch_rewards.append(reward)
+
+    reward_tensor = torch.tensor(batch_rewards, device=model.device)
+    trainer.step(gen_texts, reward_tensor)
+    
     if step % 10 == 0:
-        print(f"[Step {step}] Reward = {reward.item():.3f}")
+       print(f"[Step {step}] Mean Reward = {reward_tensor.mean().item():.3f}")
+
 
     if step >= STEPS:
         break
