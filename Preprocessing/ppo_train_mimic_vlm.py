@@ -1,14 +1,17 @@
 import os
 import torch
+from pathlib import Path
 from datasets import Dataset
 from trl import AutoModelForCausalLMWithValueHead, PPOTrainer, PPOConfig
 from transformers import AutoProcessor, AutoTokenizer
-from dataset_mimic_vlm import MIMICImpressionDataset
+from mimic_dataset_vlm import MIMICImpressionDataset
 from PIL import Image
 
-MODEL_NAME = "Qwen/Qwen2-VL-2B-Instruct" # base model 
-CSV_PATH = "mimic_impression_subset.csv"
-DATA_ROOT = "mimic_subset" # change this to 
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_NAME = "Qwen/Qwen2-VL-2B-Instruct"  # base model
+CSV_PATH = str(BASE_DIR / "mimic_impression_subset.csv")
+# DATA_ROOT should point to folder that contains the leading `files/...` paths in CSV
+DATA_ROOT = str(BASE_DIR.parent / "Data" / "Reports")
 STEPS = 100  # start small for testing
 
 # ---- Dataset ----
