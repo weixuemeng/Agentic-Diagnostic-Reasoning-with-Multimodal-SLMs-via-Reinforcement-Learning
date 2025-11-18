@@ -3,10 +3,6 @@ from pathlib import Path
 from typing import Dict, Any
 from PIL import Image
 import numpy as np
-try:
-    import pydicom
-except Exception:
-    pydicom = None
 
 
 def load_dicom(path: str) -> Image.Image:
@@ -83,16 +79,6 @@ class MIMICImpressionDataset:
 
         for p in img_paths[:2]:  # take first two
             full = self.root / p # Note: ../Data/Images/.. (need to set after download)
-
-            # if the CSV references a .dcm but only .jpg exists locally, try common alternates
-            if not full.exists():
-                # try replacing .dcm with .jpg/.jpeg
-                try_alts = [full.with_suffix('.jpg'), full.with_suffix('.jpeg')]
-                for alt in try_alts:
-                    if alt.exists():
-                        full = alt
-                        break
-
             try:
                 imgs.append(load_image(str(full)))
             except Exception as e:
