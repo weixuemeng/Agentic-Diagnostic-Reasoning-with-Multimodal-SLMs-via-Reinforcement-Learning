@@ -3,6 +3,9 @@ from pathlib import Path
 from typing import Dict, Any
 from PIL import Image
 import numpy as np
+import io
+import pydicom 
+
 
 
 def load_dicom(path: str) -> Image.Image:
@@ -49,6 +52,12 @@ def combine_pa_lat(images, target_h=768) -> Image.Image:
         x += im.size[0]
     return canvas
 
+def pil_to_png_bytes(img: Image.Image):
+    """Convert PIL → PNG bytes for HF datasets."""
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+    return buf.getvalue()
+
 class MIMICImpressionDataset:
     """
     Returns:
@@ -56,7 +65,8 @@ class MIMICImpressionDataset:
         'image': PIL image,
         'reference': impression text,
         'prompt': text prompt,
-        'study_id': id
+        'study_id': id,
+        'split': 'train'||'eval'||'test'
     }
     """
 
@@ -88,10 +98,13 @@ class MIMICImpressionDataset:
             raise RuntimeError(f"No valid images for study {row['study_id']}")
 
         image = combine_pa_lat(imgs)
+        image_bytes = pil_to_png_bytes(image)
 
         return {
-            "image": image,
+            "image": image_bytes,
             "reference": row["impression"],
-            "prompt": "Two-view chest X-ray. Provide ONLY the Impression.",
-            "study_id": row["study_id"]
+            "prompt": "Here is a Two-view chest X-ray. Provide ONLY the Impression.",
+            "study_id": int(row["study_id"]),
+            "split": row["split"],
         }
+    
