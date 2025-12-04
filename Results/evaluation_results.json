@@ -1,0 +1,16 @@
+{
+  "test_metrics": {
+    "avg_similarity": 0.14326446971445145,
+    "std_similarity": 0.09889973821294974,
+    "bleu_score": 0.07236842105263158,
+    "avg_pred_length": 51.0,
+    "avg_ref_length": 31.75
+  },
+  "validation_metrics": {
+    "avg_similarity": 0.0847623959269479,
+    "std_similarity": 0.07805984551702172,
+    "bleu_score": 0.07885097358781569,
+    "avg_pred_length": 50.142857142857146,
+    "avg_ref_length": 26.0
+  }
+}

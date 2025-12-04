@@ -3,6 +3,9 @@ from pathlib import Path
 from typing import Dict, Any
 from PIL import Image
 import numpy as np
+import io
+import pydicom 
+import math
 
 
 def load_dicom(path: str) -> Image.Image:
@@ -49,6 +52,12 @@ def combine_pa_lat(images, target_h=768) -> Image.Image:
         x += im.size[0]
     return canvas
 
+def pil_to_png_bytes(img: Image.Image):
+    """Convert PIL → PNG bytes for HF datasets."""
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+    return buf.getvalue()
+
 class MIMICImpressionDataset:
     """
     Returns:
@@ -56,7 +65,8 @@ class MIMICImpressionDataset:
         'image': PIL image,
         'reference': impression text,
         'prompt': text prompt,
-        'study_id': id
+        'study_id': id,
+        'split': 'train'||'eval'||'test'
     }
     """
 
@@ -73,25 +83,62 @@ class MIMICImpressionDataset:
 
     def __getitem__(self, idx) -> Dict[str, Any]:
         row = self.df.iloc[idx]
+        paths_field = row.get("image_paths", "[]")
+        try:
+            if isinstance(paths_field, str):
+                img_paths = ast.literal_eval(paths_field)
+            else:
+                img_paths = list(paths_field)
+        except Exception:
+            img_paths = []
 
-        img_paths = ast.literal_eval(row["image_paths"])
-        imgs = [] # Images list
-
-        for p in img_paths[:2]:  # take first two
-            full = self.root / p # Note: ../Data/Images/.. (need to set after download)
+        imgs = []
+        for p in img_paths[:2]:
+            full = (self.root / p)
             try:
-                imgs.append(load_image(str(full)))
+                img = load_image(str(full))
             except Exception as e:
                 print(f"[WARN] Image load failed {full}: {e}")
+                img = None
+            if img is not None:
+                imgs.append(img)
 
-        if len(imgs) == 0:
-            raise RuntimeError(f"No valid images for study {row['study_id']}")
+        if not imgs:
+            raise RuntimeError(f"No valid images for study {row.get('study_id')}")
 
         image = combine_pa_lat(imgs)
+        image_bytes = pil_to_png_bytes(image)  
+        ref = row.get("impression", "")
+        try:
+            if pd.isna(ref):
+                ref = ""
+        except Exception:
+            if ref is None or (isinstance(ref, float) and math.isnan(ref)):
+                ref = ""
+        ref = str(ref)
+        sp = row.get("split", "")
+        if isinstance(sp, str):
+            s = sp.strip().lower()
+            if s == "validate":
+                sp = "eval"
+            elif s in ("train", "eval", "test"):
+                sp = s
+            else:
+                sp = "train"
+        else:
+            sp = "train"
+
+        sid = row.get("study_id", -1)
+        try:
+            sid = int(sid)
+        except Exception:
+            sid = -1
 
         return {
-            "image": image,
-            "reference": row["impression"],
-            "prompt": "Two-view chest X-ray. Provide ONLY the Impression.",
-            "study_id": row["study_id"]
+            "image": image_bytes, 
+            "reference": ref, 
+            "study_id": sid,
+            "split": sp, 
         }
+
+    
